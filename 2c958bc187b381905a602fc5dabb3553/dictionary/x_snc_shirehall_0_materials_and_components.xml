@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Materials and Components" max_length="40" name="x_snc_shirehall_0_materials_and_components" sizeclass="9" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Area" max_length="40" name="area" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Front Living Area" sequence="0" value="front_living_area"/>
+                <element inactive_on_update="false" label="Kitchen" sequence="1" value="kitchen"/>
+                <element inactive_on_update="false" label="Hallway" sequence="2" value="hallway"/>
+                <element inactive_on_update="false" label="Addition" sequence="3" value="addition"/>
+                <element inactive_on_update="false" label="Loft" sequence="4" value="loft"/>
+                <element inactive_on_update="false" label="Office/Guest Bedroom" sequence="5" value="office_guest_bedroom"/>
+                <element inactive_on_update="false" label="Pachm's Bedroom" sequence="6" value="pachms_bedroom"/>
+                <element inactive_on_update="false" label="Dharma's Bedroom" sequence="7" value="dharmas_bedroom"/>
+                <element inactive_on_update="false" label="Parent's Bedroom" sequence="8" value="parents_bedroom"/>
+                <element inactive_on_update="false" label="Walkin" sequence="9" value="walkin"/>
+                <element inactive_on_update="false" label="Front Bathroom" sequence="10" value="front_bathroom"/>
+                <element inactive_on_update="false" label="Back Bathroom" sequence="11" value="back_bathroom"/>
+                <element inactive_on_update="false" label="Exterior" sequence="12" value="exterior"/>
+                <element inactive_on_update="false" label="Garage" sequence="13" value="garage"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class" max_length="40" name="class" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Plumbing" sequence="0" value="plumbing"/>
+                <element inactive_on_update="false" label="Flooring" sequence="1" value="flooring"/>
+                <element inactive_on_update="false" label="Electrical" sequence="2" value="electrical"/>
+                <element inactive_on_update="false" label="Windows" sequence="3" value="windows"/>
+                <element inactive_on_update="false" label="Doors" sequence="4" value="doors"/>
+                <element inactive_on_update="false" label="Cabinets" sequence="5" value="cabinets"/>
+                <element inactive_on_update="false" label="Tile" sequence="6" value="tile"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="128" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1024" name="notes" type="string"/>
+        <element label="Price" max_length="40" name="price" type="currency"/>
+        <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
+    </element>
+</database>

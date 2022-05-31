@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New Button (Plumbing)">95db074d87b381905a602fc5dabb357e</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New</name>
+        <order/>
+        <parent>4ddb074d87b381905a602fc5dabb3556</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-29 23:03:00</sys_created_on>
+        <sys_id>d9db074d87b381905a602fc5dabb3584</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d9db074d87b381905a602fc5dabb3584</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-29 23:03:00</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d9db074d87b381905a602fc5dabb3584"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_button_instance_d9db074d87b381905a602fc5dabb3584</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New Button (Plumbing)">95db074d87b381905a602fc5dabb357e</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>New</label><location>top</location><name>New</name><order/><parent>4ddb074d87b381905a602fc5dabb3556</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-29 23:03:00</sys_created_on><sys_id>d9db074d87b381905a602fc5dabb3584</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_button_instance_d9db074d87b381905a602fc5dabb3584</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-29 23:03:00</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=d9db074d87b381905a602fc5dabb3584"/></record_update>]]></payload>
+        <payload_hash>-873204713</payload_hash>
+        <record_name>New</record_name>
+        <reverted_from/>
+        <source>ac958bc187b381905a602fc5dabb3555</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-29 23:03:04</sys_created_on>
+        <sys_id>86db874d87b381905a602fc5dabb3585</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181120f09e40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-29 23:03:04</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>02db874ddbb3819013640562a461c985</update_guid>
+        <update_guid_history>02db874ddbb3819013640562a461c985:-873204713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-30 05:41:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>62cacd62a82d4f17aaa1afabb59e7f09</sys_id>
+        <sys_metadata>d9db074d87b381905a602fc5dabb3584</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_d9db074d87b381905a602fc5dabb3584</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_d9db074d87b381905a602fc5dabb3584">86db874d87b381905a602fc5dabb3585</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-30 05:41:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

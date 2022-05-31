@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Shirehall Remodel_menu_config">f75a8f8987b381905a602fc5dabb35f7</configuration>
+        <description/>
+        <order>300</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 16:49:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a759c0f587f345905a602fc5dabb35cb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>M&amp;C by Class</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_ux_list_category_a759c0f587f345905a602fc5dabb35cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 16:49:12</sys_updated_on>
+        <title>M&amp;C by Class</title>
+    </sys_ux_list_category>
+</record_update>
