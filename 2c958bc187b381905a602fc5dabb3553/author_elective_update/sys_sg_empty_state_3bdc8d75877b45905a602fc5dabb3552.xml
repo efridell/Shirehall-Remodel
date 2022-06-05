@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_empty_state">
+    <sys_sg_empty_state action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Exterior Empty State</name>
+        <sys_class_name>sys_sg_empty_state</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 21:43:45</sys_created_on>
+        <sys_id>3bdc8d75877b45905a602fc5dabb3552</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exterior Empty State</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_empty_state_3bdc8d75877b45905a602fc5dabb3552</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 21:43:45</sys_updated_on>
+        <view_config display_value="Default Empty State View">b6c51992b723101096aa25efce11a960</view_config>
+    </sys_sg_empty_state>
+    <sys_translated_text action="DELETE" query="documentkey=3bdc8d75877b45905a602fc5dabb3552"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_empty_state_3bdc8d75877b45905a602fc5dabb3552</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_empty_state"><sys_sg_empty_state action="INSERT_OR_UPDATE"><active>true</active><description/><name>Exterior Empty State</name><sys_class_name>sys_sg_empty_state</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-31 21:43:45</sys_created_on><sys_id>3bdc8d75877b45905a602fc5dabb3552</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Exterior Empty State</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_empty_state_3bdc8d75877b45905a602fc5dabb3552</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-31 21:43:45</sys_updated_on><view_config display_value="Default Empty State View">b6c51992b723101096aa25efce11a960</view_config></sys_sg_empty_state><sys_translated_text action="delete_multiple" query="documentkey=3bdc8d75877b45905a602fc5dabb3552"/></record_update>]]></payload>
+        <payload_hash>243775910</payload_hash>
+        <record_name>Exterior Empty State</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 21:43:45</sys_created_on>
+        <sys_id>f3dc8d75877b45905a602fc5dabb3555</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811c1323da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 21:43:45</sys_updated_on>
+        <type>Empty State</type>
+        <update_guid>fbdc8d75867b45904c2dd442c800f154</update_guid>
+        <update_guid_history>fbdc8d75867b45904c2dd442c800f154:243775910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 21:52:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_empty_state">sys_sg_empty_state</sys_db_object>
+        <sys_id>183e7df74ab04318917e6281041523f9</sys_id>
+        <sys_metadata>3bdc8d75877b45905a602fc5dabb3552</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exterior Empty State</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_empty_state_3bdc8d75877b45905a602fc5dabb3552</sys_update_name>
+        <sys_update_version display_value="sys_sg_empty_state_3bdc8d75877b45905a602fc5dabb3552">f3dc8d75877b45905a602fc5dabb3555</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 21:52:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

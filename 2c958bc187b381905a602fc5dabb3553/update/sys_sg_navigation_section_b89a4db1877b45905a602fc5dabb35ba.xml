@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section">
+    <sys_sg_navigation_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <display_type>Icon</display_type>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles>x_snc_shirehall_0.admin,x_snc_shirehall_0.user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_navigation_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 21:33:43</sys_created_on>
+        <sys_id>b89a4db1877b45905a602fc5dabb35ba</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>M&amp;C by Area</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_b89a4db1877b45905a602fc5dabb35ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:53:32</sys_updated_on>
+        <table/>
+        <title>M&amp;C by Area</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_navigation_section>
+</record_update>

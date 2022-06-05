@@ -21,7 +21,7 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Front Living Area</label>
+            <label>Addition</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
             <sequence>0</sequence>
@@ -30,70 +30,10 @@
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b5a80b0987b381905a602fc5dabb35fd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-29 22:49:08</sys_updated_on>
-            <value>front_living_area</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Kitchen</label>
-            <language>en</language>
-            <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>1</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>c6a84b0987b381905a602fc5dabb3505</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>kitchen</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Hallway</label>
-            <language>en</language>
-            <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>2</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>79a84b0987b381905a602fc5dabb3504</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>hallway</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Addition</label>
-            <language>en</language>
-            <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>3</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>46a84b0987b381905a602fc5dabb3506</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
             <value>addition</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -104,16 +44,16 @@
             <label>Loft</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>4</sequence>
+            <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c2a84b0987b381905a602fc5dabb3507</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
             <value>loft</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -121,100 +61,60 @@
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Office/Guest Bedroom</label>
+            <label>Front Living Area</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>5</sequence>
+            <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f5a80b0987b381905a602fc5dabb35fe</sys_id>
+            <sys_id>b5a80b0987b381905a602fc5dabb35fd</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>office_guest_bedroom</value>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>front_living_area</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Pachm's Bedroom</label>
+            <label>Kitchen</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>6</sequence>
+            <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>75a80b0987b381905a602fc5dabb35ff</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>c6a84b0987b381905a602fc5dabb3505</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>pachms_bedroom</value>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>kitchen</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>area</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Dharma's Bedroom</label>
+            <label>Hallway</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>7</sequence>
+            <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f1a84b0987b381905a602fc5dabb3500</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>79a84b0987b381905a602fc5dabb3504</sys_id>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>dharmas_bedroom</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Parent's Bedroom</label>
-            <language>en</language>
-            <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>8</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>71a84b0987b381905a602fc5dabb3501</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>parents_bedroom</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>area</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Walkin</label>
-            <language>en</language>
-            <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>9</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fda84b0987b381905a602fc5dabb3501</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
-            <value>walkin</value>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>hallway</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -224,16 +124,16 @@
             <label>Front Bathroom</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>10</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7da84b0987b381905a602fc5dabb3502</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
             <value>front_bathroom</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -244,17 +144,117 @@
             <label>Back Bathroom</label>
             <language>en</language>
             <name>x_snc_shirehall_0_materials_and_components</name>
-            <sequence>11</sequence>
+            <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-05-29 22:49:08</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f9a84b0987b381905a602fc5dabb3503</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>4</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
+            <sys_updated_on>2022-06-04 23:19:38</sys_updated_on>
             <value>back_bathroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office/Guest Bedroom</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5a80b0987b381905a602fc5dabb35fe</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>office_guest_bedroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pachm's Bedroom</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75a80b0987b381905a602fc5dabb35ff</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>pachms_bedroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dharma's Bedroom</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1a84b0987b381905a602fc5dabb3500</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>dharmas_bedroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Parent's Bedroom</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71a84b0987b381905a602fc5dabb3501</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>parents_bedroom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Walkin</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-29 22:49:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fda84b0987b381905a602fc5dabb3501</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:52:28</sys_updated_on>
+            <value>walkin</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -295,6 +295,26 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-05-30 05:24:36</sys_updated_on>
             <value>garage</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>area</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>General</label>
+            <language>en</language>
+            <name>x_snc_shirehall_0_materials_and_components</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-04 22:53:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c234e4f87bb0d905a602fc5dabb3586</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-04 22:53:15</sys_updated_on>
+            <value>general</value>
         </sys_choice>
     </sys_choice>
 </record_update>

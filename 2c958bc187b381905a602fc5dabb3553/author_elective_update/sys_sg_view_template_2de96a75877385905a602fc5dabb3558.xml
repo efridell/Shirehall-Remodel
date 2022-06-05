@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="DELETE">
+        <active>true</active>
+        <description>Use this one...</description>
+        <name>M&amp;C List Card Template - Current</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:30:12</sys_created_on>
+        <sys_id>2de96a75877385905a602fc5dabb3558</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>M&amp;C List Card Template - Current</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_view_template_2de96a75877385905a602fc5dabb3558</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:34:12</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_01","CellId":"container_01","Margin":{"Bottom":10},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_06","CellId":"container_06","BackgroundColor":"#D1D6D6","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":13},"MaxLines":1,"Id":"description","CellId":"description"}]},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"area","CellId":"area","TextAlignment":"Right"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_03","CellId":"container_03","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"classLabel","CellId":"classLabel","Margin":{"Right":10}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"classValue","CellId":"classValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_04","CellId":"container_04","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"priceLabel","CellId":"priceLabel","Margin":{"Right":11}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"priceValue","CellId":"priceValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_07","CellId":"container_07","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"purchasedLabel","CellId":"purchasedLabel","Margin":{"Right":10}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"purchasedValue","CellId":"purchasedValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_05","CellId":"container_05","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"notes","CellId":"notes"}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="DELETE" query="documentkey=2de96a75877385905a602fc5dabb3558"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_view_template_2de96a75877385905a602fc5dabb3558</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template"><sys_sg_view_template action="INSERT_OR_UPDATE"><active>true</active><description>Use this one...</description><name>M&amp;C List Card Template - Current</name><preview_image/><root_view_attrs_json/><sys_class_name>sys_sg_view_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-01 04:30:12</sys_created_on><sys_id>2de96a75877385905a602fc5dabb3558</sys_id><sys_mod_count>3</sys_mod_count><sys_name>M&amp;C List Card Template - Current</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_view_template_2de96a75877385905a602fc5dabb3558</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 04:34:12</sys_updated_on><template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_01","CellId":"container_01","Margin":{"Bottom":10},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_06","CellId":"container_06","BackgroundColor":"#D1D6D6","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":13},"MaxLines":1,"Id":"description","CellId":"description"}]},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"area","CellId":"area","TextAlignment":"Right"}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_03","CellId":"container_03","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"classLabel","CellId":"classLabel","Margin":{"Right":10}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"classValue","CellId":"classValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_04","CellId":"container_04","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"priceLabel","CellId":"priceLabel","Margin":{"Right":11}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"priceValue","CellId":"priceValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_07","CellId":"container_07","Margin":{"Bottom":5},"Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"purchasedLabel","CellId":"purchasedLabel","Margin":{"Right":10}},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"purchasedValue","CellId":"purchasedValue","Margin":{}}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_05","CellId":"container_05","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"notes","CellId":"notes"}]}]}</template_json></sys_sg_view_template><sys_translated_text action="delete_multiple" query="documentkey=2de96a75877385905a602fc5dabb3558"/></record_update>]]></payload>
+        <payload_hash>-173352308</payload_hash>
+        <record_name>M&amp;C List Card Template - Current</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:34:12</sys_created_on>
+        <sys_id>54daa239877385905a602fc5dabb3561</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811d8aebb20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:34:12</sys_updated_on>
+        <type>Card template</type>
+        <update_guid>d8daa23993738590c345fc19518af260</update_guid>
+        <update_guid_history>d8daa23993738590c345fc19518af260:-173352308,cbba26b58a738590954a751e242654c0:1083042797,ecaa6ef51e7385904a1222ae24ff90fe:2143648762,69e96a75e8738590f00b8104e5e54e5a:-179071204</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:43:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_template">sys_sg_view_template</sys_db_object>
+        <sys_id>2ef8c4c1e44c40c091a4c0519514ac64</sys_id>
+        <sys_metadata>2de96a75877385905a602fc5dabb3558</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>M&amp;C List Card Template - Current</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_view_template_2de96a75877385905a602fc5dabb3558</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_template_2de96a75877385905a602fc5dabb3558">54daa239877385905a602fc5dabb3561</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:43:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

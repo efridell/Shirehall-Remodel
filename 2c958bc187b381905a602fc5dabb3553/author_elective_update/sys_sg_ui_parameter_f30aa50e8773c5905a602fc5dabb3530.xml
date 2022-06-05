@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Edit M&amp;C Item">493ea27d877385905a602fc5dabb3501</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>class</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Class</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 18:29:45</sys_created_on>
+        <sys_id>f30aa50e8773c5905a602fc5dabb3530</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Class</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f30aa50e8773c5905a602fc5dabb3530</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:23:51</sys_updated_on>
+        <table_name>x_snc_shirehall_0_materials_and_components</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=f30aa50e8773c5905a602fc5dabb3530"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_ui_parameter_f30aa50e8773c5905a602fc5dabb3530</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Edit M&amp;C Item">493ea27d877385905a602fc5dabb3501</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>source_field</default_value_type><field_name>class</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Class</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-01 18:29:45</sys_created_on><sys_id>f30aa50e8773c5905a602fc5dabb3530</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Class</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_ui_parameter_f30aa50e8773c5905a602fc5dabb3530</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 19:23:51</sys_updated_on><table_name>x_snc_shirehall_0_materials_and_components</table_name><virtual_field_value>false</virtual_field_value></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=f30aa50e8773c5905a602fc5dabb3530"/></record_update>]]></payload>
+        <payload_hash>776924172</payload_hash>
+        <record_name>Class</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:23:51</sys_created_on>
+        <sys_id>9876f98e87b3c5905a602fc5dabb3535</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18120b96d060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:23:51</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>1076f98e59b3c5904f1f5c689c43ea35</update_guid>
+        <update_guid_history>1076f98e59b3c5904f1f5c689c43ea35:776924172,370aa50e7273c5901b7e7efa3316ef33:1922777522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:24:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>060ea77411e24c7f809d5f40ec2d9bd1</sys_id>
+        <sys_metadata>f30aa50e8773c5905a602fc5dabb3530</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Class</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_f30aa50e8773c5905a602fc5dabb3530</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_f30aa50e8773c5905a602fc5dabb3530">9876f98e87b3c5905a602fc5dabb3535</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:24:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

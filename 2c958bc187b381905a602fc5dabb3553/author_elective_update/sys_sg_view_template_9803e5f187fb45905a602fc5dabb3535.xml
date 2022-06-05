@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>M&amp;C Card Template-OLD</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 23:20:27</sys_created_on>
+        <sys_id>9803e5f187fb45905a602fc5dabb3535</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>M&amp;C Card Template-OLD</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_view_template_9803e5f187fb45905a602fc5dabb3535</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 03:51:58</sys_updated_on>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_01","CellId":"container_01","Margin":{"Bottom":5},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_02","CellId":"container_02","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_04","CellId":"container_04","BackgroundColor":"#E4E6E7","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_01","CellId":"text_01"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":13},"MaxLines":1,"Id":"text_02","CellId":"text_02"}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_03","CellId":"container_03","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_03","CellId":"text_03","TextAlignment":"Right"}]}]},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_04","CellId":"text_04"},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_05","CellId":"container_05","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_06","CellId":"container_06","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_05","CellId":"text_05"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_06","CellId":"text_06","Margin":{"Left":15}}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_07","CellId":"container_07","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_08","CellId":"container_08","Children":[{"Type":"Image","Scaling":"Fill","Id":"image_01","CellId":"image_01"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_07","CellId":"text_07"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_08","CellId":"text_08","Margin":{"Left":15}}]}]}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="DELETE" query="documentkey=9803e5f187fb45905a602fc5dabb3535"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_view_template_9803e5f187fb45905a602fc5dabb3535</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template"><sys_sg_view_template action="INSERT_OR_UPDATE"><active>true</active><description/><name>M&amp;C Card Template-OLD</name><preview_image/><root_view_attrs_json/><sys_class_name>sys_sg_view_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-31 23:20:27</sys_created_on><sys_id>9803e5f187fb45905a602fc5dabb3535</sys_id><sys_mod_count>6</sys_mod_count><sys_name>M&amp;C Card Template-OLD</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_view_template_9803e5f187fb45905a602fc5dabb3535</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 03:51:58</sys_updated_on><template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_01","CellId":"container_01","Margin":{"Bottom":5},"Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_02","CellId":"container_02","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_04","CellId":"container_04","BackgroundColor":"#E4E6E7","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_01","CellId":"text_01"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":13},"MaxLines":1,"Id":"text_02","CellId":"text_02"}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_03","CellId":"container_03","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_03","CellId":"text_03","TextAlignment":"Right"}]}]},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_04","CellId":"text_04"},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_05","CellId":"container_05","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_06","CellId":"container_06","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_05","CellId":"text_05"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_06","CellId":"text_06","Margin":{"Left":15}}]}]},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_07","CellId":"container_07","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Id":"container_08","CellId":"container_08","Children":[{"Type":"Image","Scaling":"Fill","Id":"image_01","CellId":"image_01"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_07","CellId":"text_07"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":13},"MaxLines":1,"Id":"text_08","CellId":"text_08","Margin":{"Left":15}}]}]}]}</template_json></sys_sg_view_template><sys_translated_text action="delete_multiple" query="documentkey=9803e5f187fb45905a602fc5dabb3535"/></record_update>]]></payload>
+        <payload_hash>185627754</payload_hash>
+        <record_name>M&amp;C Card Template-OLD</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 03:51:58</sys_created_on>
+        <sys_id>e5212e79873385905a602fc5dabb35e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811d6440230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 03:51:58</sys_updated_on>
+        <type>Card template</type>
+        <update_guid>6d212e79a2338590687c6f510ad8d2e1</update_guid>
+        <update_guid_history>6d212e79a2338590687c6f510ad8d2e1:185627754,1e94253513fb459092100127543bed6f:486826718,6774a5b5a7fb45903cf753915227989c:-1523207796,0b6465b113fb4590d5cbe08a42fae9c7:1058208125,3c4425f187fb4590ad176a84a0727a1c:1949595374,7ad369f1a3fb4590c201feae56cffba4:1678652414,9403e5f1ecfb4590a675c1bc4e685737:-1105988769</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:43:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_template">sys_sg_view_template</sys_db_object>
+        <sys_id>2e70defa1ae942c8b38fced1153baca4</sys_id>
+        <sys_metadata>9803e5f187fb45905a602fc5dabb3535</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>M&amp;C Card Template-OLD</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_view_template_9803e5f187fb45905a602fc5dabb3535</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_template_9803e5f187fb45905a602fc5dabb3535">e5212e79873385905a602fc5dabb35e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:43:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
