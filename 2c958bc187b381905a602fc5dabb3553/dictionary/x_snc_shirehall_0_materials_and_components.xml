@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" label="Materials and Components" max_length="40" name="x_snc_shirehall_0_materials_and_components" sizeclass="9" text_index="true" type="collection">
+    <element audit="true" label="Materials and Components" max_length="40" name="x_snc_shirehall_0_materials_and_components" sizeclass="46" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Area" max_length="40" name="area" type="string">
             <choice>
                 <element inactive_on_update="false" label="Addition" sequence="0" value="addition"/>
@@ -21,14 +21,15 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Class" max_length="40" name="class" type="string">
             <choice>
-                <element inactive_on_update="false" label="Cabinets" sequence="0" value="cabinets"/>
-                <element inactive_on_update="false" label="Doors" sequence="1" value="doors"/>
-                <element inactive_on_update="false" label="Electrical" sequence="2" value="electrical"/>
-                <element inactive_on_update="false" label="Flooring" sequence="3" value="flooring"/>
-                <element inactive_on_update="false" label="HVAC" sequence="4" value="hvac"/>
-                <element inactive_on_update="false" label="Plumbing" sequence="5" value="plumbing"/>
-                <element inactive_on_update="false" label="Tile" sequence="6" value="tile"/>
-                <element inactive_on_update="false" label="Windows" sequence="7" value="windows"/>
+                <element inactive_on_update="false" label="Accessories" sequence="0" value="accessories"/>
+                <element inactive_on_update="false" label="Appliances" sequence="1" value="appliances"/>
+                <element inactive_on_update="false" label="Cabinets" sequence="2" value="cabinets"/>
+                <element inactive_on_update="false" label="Doors" sequence="3" value="doors"/>
+                <element inactive_on_update="false" label="Electrical" sequence="4" value="electrical"/>
+                <element inactive_on_update="false" label="Flooring/Tile" sequence="5" value="flooring_tile"/>
+                <element inactive_on_update="false" label="HVAC" sequence="6" value="hvac"/>
+                <element inactive_on_update="false" label="Plumbing" sequence="7" value="plumbing"/>
+                <element inactive_on_update="false" label="Windows" sequence="8" value="windows"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="128" name="description" type="string"/>

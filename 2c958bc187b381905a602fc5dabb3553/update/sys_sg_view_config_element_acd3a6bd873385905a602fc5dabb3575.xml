@@ -13,7 +13,7 @@
         <sys_update_name>sys_sg_view_config_element_acd3a6bd873385905a602fc5dabb3575</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-01 04:38:10</sys_updated_on>
-        <view_config display_value="Exterior view config">4abf8d79877b45905a602fc5dabb3584</view_config>
+        <view_config display_value="M&amp;C view config">4abf8d79877b45905a602fc5dabb3584</view_config>
         <view_template_slot display_value="area">a50be239877385905a602fc5dabb35dc</view_template_slot>
     </sys_sg_view_config_element>
 </record_update>

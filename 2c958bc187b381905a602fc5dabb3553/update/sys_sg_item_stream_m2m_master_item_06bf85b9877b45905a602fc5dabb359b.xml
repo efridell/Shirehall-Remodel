@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
     <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
         <item_stream display_value="Exterior list stream">348e0d39877b45905a602fc5dabb35c1</item_stream>
-        <master_item display_value="Exterior list item config">4abf8d79877b45905a602fc5dabb3587</master_item>
+        <master_item display_value="M&amp;C list item config">4abf8d79877b45905a602fc5dabb3587</master_item>
         <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-31 21:56:12</sys_created_on>

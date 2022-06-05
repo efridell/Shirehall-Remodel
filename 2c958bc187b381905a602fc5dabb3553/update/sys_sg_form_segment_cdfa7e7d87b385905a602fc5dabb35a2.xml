@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
     <sys_sg_form_segment action="INSERT_OR_UPDATE">
         <embedded_screen display_value="M&amp;C Details">393bf2fd87b385905a602fc5dabb35c8</embedded_screen>
-        <form display_value="Exterior Item Details">e83ab27d87b385905a602fc5dabb3531</form>
+        <form display_value="M&amp;C Item Details">e83ab27d87b385905a602fc5dabb3531</form>
         <header_view_config/>
         <is_sticky>false</is_sticky>
         <order>10</order>
