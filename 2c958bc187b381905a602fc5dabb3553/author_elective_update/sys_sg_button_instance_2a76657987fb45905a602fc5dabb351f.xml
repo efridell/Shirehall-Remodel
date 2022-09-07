@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="New M&amp;C Item">ea76657987fb45905a602fc5dabb351a</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New Exterior Item</name>
+        <order>10</order>
+        <parent>95db4135877b45905a602fc5dabb355e</parent>
+        <parent_table>sys_sg_list_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 23:35:38</sys_created_on>
+        <sys_id>2a76657987fb45905a602fc5dabb351f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>New Exterior Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2a76657987fb45905a602fc5dabb351f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 03:00:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2a76657987fb45905a602fc5dabb351f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_button_instance_2a76657987fb45905a602fc5dabb351f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="New M&amp;C Item">ea76657987fb45905a602fc5dabb351a</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon/><label>New</label><location>top</location><name>New Exterior Item</name><order>10</order><parent>95db4135877b45905a602fc5dabb355e</parent><parent_table>sys_sg_list_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-31 23:35:38</sys_created_on><sys_id>2a76657987fb45905a602fc5dabb351f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>New Exterior Item</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_button_instance_2a76657987fb45905a602fc5dabb351f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 03:00:58</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=2a76657987fb45905a602fc5dabb351f"/></record_update>]]></payload>
+        <payload_hash>-2049774025</payload_hash>
+        <record_name>New Exterior Item</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 03:00:58</sys_created_on>
+        <sys_id>ee75567987ff45905a602fc5dabb352d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811d3590580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 03:00:58</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>667556791dff459010ba315eb03f2a2d</update_guid>
+        <update_guid_history>667556791dff459010ba315eb03f2a2d:-2049774025,226556795aff459000588295412a3527:1138187952,cc459ef52eff45909fd6a8fd04778df9:-2049774025,e2766579b5fb45907a309a64ae302c22:-109804332</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:58:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>13412fae3a5a421888cd84bc1e679240</sys_id>
+        <sys_metadata>2a76657987fb45905a602fc5dabb351f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Exterior Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_2a76657987fb45905a602fc5dabb351f</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_2a76657987fb45905a602fc5dabb351f">ee75567987ff45905a602fc5dabb352d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:58:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

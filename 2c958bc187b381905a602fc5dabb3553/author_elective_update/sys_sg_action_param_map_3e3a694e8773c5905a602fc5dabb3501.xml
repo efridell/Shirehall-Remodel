@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="DELETE">
+        <button display_value="Edit M&amp;C Item">493ea27d877385905a602fc5dabb3501</button>
+        <item_parameter display_value="Class Data Parameter">2e2a654e8773c5905a602fc5dabb35f8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 18:30:31</sys_created_on>
+        <sys_id>3e3a694e8773c5905a602fc5dabb3501</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e2a654e8773c5905a602fc5dabb35f8</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3e3a694e8773c5905a602fc5dabb3501</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 18:30:31</sys_updated_on>
+        <ui_parameter display_value="Class UI Parameter">f30aa50e8773c5905a602fc5dabb3530</ui_parameter>
+    </sys_sg_action_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>ae299806dbd6851052dd2f17d49619ee</instance_id>
+        <instance_name>ecfs01demo</instance_name>
+        <name>sys_sg_action_param_map_3e3a694e8773c5905a602fc5dabb3501</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map"><sys_sg_action_param_map action="INSERT_OR_UPDATE"><button display_value="Edit M&amp;C Item">493ea27d877385905a602fc5dabb3501</button><item_parameter display_value="Class Data Parameter">2e2a654e8773c5905a602fc5dabb35f8</item_parameter><sys_class_name>sys_sg_action_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-01 18:30:31</sys_created_on><sys_id>3e3a694e8773c5905a602fc5dabb3501</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2e2a654e8773c5905a602fc5dabb35f8</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_action_param_map_3e3a694e8773c5905a602fc5dabb3501</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 18:30:31</sys_updated_on><ui_parameter display_value="Class UI Parameter">f30aa50e8773c5905a602fc5dabb3530</ui_parameter></sys_sg_action_param_map></record_update>]]></payload>
+        <payload_hash>1506354954</payload_hash>
+        <record_name>2e2a654e8773c5905a602fc5dabb35f8</record_name>
+        <reverted_from/>
+        <source>4cbf78fd87f745905a602fc5dabb35bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 18:30:31</sys_created_on>
+        <sys_id>cf3aa94e8773c5905a602fc5dabb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181208897570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 18:30:31</sys_updated_on>
+        <type>Action parameters mapping</type>
+        <update_guid>c73aa94ee373c59011fde3c8ea7d9c2e</update_guid>
+        <update_guid_history>c73aa94ee373c59011fde3c8ea7d9c2e:1506354954</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:24:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_action_param_map">sys_sg_action_param_map</sys_db_object>
+        <sys_id>0003f36f487e43728000001e7a7623c4</sys_id>
+        <sys_metadata>3e3a694e8773c5905a602fc5dabb3501</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e2a654e8773c5905a602fc5dabb35f8</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_action_param_map_3e3a694e8773c5905a602fc5dabb3501</sys_update_name>
+        <sys_update_version display_value="sys_sg_action_param_map_3e3a694e8773c5905a602fc5dabb3501">cf3aa94e8773c5905a602fc5dabb352e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:24:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
