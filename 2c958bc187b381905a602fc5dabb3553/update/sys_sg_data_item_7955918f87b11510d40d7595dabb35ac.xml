@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Unpurchased Office/Guest Bedroom Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_snc_shirehall_0_materials_and_components">area=office_guest_bedroom^purchased=false<item display_value="Office/Guest Bedroom" endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="office_guest_bedroom"/>
+            <item endquery="false" field="purchased" goto="false" newquery="false" operator="=" or="false" value="false"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 05:38:44</sys_created_on>
+        <sys_id>7955918f87b11510d40d7595dabb35ac</sys_id>
+        <sys_name>Unpurchased Office/Guest Bedroom Data Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_data_item_7955918f87b11510d40d7595dabb35ac</sys_update_name>
+        <table>x_snc_shirehall_0_materials_and_components</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7955918f87b11510d40d7595dabb35ac"/>
+</record_update>

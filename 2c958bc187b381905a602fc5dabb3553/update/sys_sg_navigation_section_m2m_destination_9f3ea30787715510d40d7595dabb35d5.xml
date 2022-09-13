@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE">
+        <navigation_section display_value="Unpurchased M&amp;C by Area">b89a4db1877b45905a602fc5dabb35ba</navigation_section>
+        <navigation_section_destination display_value="Dharma's Bedroom">133ea30787715510d40d7595dabb35d3</navigation_section_destination>
+        <order>100</order>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:46:45</sys_created_on>
+        <sys_id>9f3ea30787715510d40d7595dabb35d5</sys_id>
+        <sys_name/>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_9f3ea30787715510d40d7595dabb35d5</sys_update_name>
+    </sys_sg_navigation_section_m2m_destination>
+</record_update>

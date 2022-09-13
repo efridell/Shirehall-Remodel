@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>Pachm's Bedroom Screen Segment</name>
+        <order/>
+        <screen display_value="Pachm's Bedroom List">6d159d4f87b11510d40d7595dabb35f8</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 05:37:37</sys_created_on>
+        <sys_id>e515dd4f87b11510d40d7595dabb3500</sys_id>
+        <sys_name>Pachm's Bedroom Screen Segment</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_e515dd4f87b11510d40d7595dabb3500</sys_update_name>
+    </sys_sg_item_stream_segment>
+</record_update>

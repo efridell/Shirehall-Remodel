@@ -61,7 +61,6 @@
         <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
         <sys_id>021b4599b44f41849743457c7f5f1b90</sys_id>
         <sys_metadata>853ea27d877385905a602fc5dabb3506</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Edit Exterior Item</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -70,7 +69,5 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_button_instance_853ea27d877385905a602fc5dabb3506</sys_update_name>
         <sys_update_version display_value="sys_sg_button_instance_853ea27d877385905a602fc5dabb3506">013ea27d877385905a602fc5dabb3509</sys_update_version>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-01 05:48:21</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New M&amp;C Item">ea76657987fb45905a602fc5dabb351a</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="Wrench Solid">166e0d9f87b95510d40d7595dabb3559</icon>
+        <label>New M&amp;C Item</label>
+        <location>quick_action</location>
+        <name>New M&amp;C Item</name>
+        <order/>
+        <parent>34dbc34d87b381905a602fc5dabb35ac</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 23:46:57</sys_created_on>
+        <sys_id>6e6e0d9f87b95510d40d7595dabb355b</sys_id>
+        <sys_name>New M&amp;C Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6e6e0d9f87b95510d40d7595dabb355b</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e6e0d9f87b95510d40d7595dabb355b"/>
+</record_update>

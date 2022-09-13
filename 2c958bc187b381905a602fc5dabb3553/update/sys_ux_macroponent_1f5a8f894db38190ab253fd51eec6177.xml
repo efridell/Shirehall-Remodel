@@ -1381,7 +1381,9 @@
 } ]</composition>
         <da_relay_models/>
         <data>[ ]</data>
+        <description/>
         <dispatched_events>5f5a8f8917b38190b41ffb2a137c6177</dispatched_events>
+        <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
         <handled_events/>
         <interactions/>
@@ -1402,6 +1404,7 @@
 }</layout>
         <macroponent_dependencies/>
         <name>Home</name>
+        <output_prop_mapping/>
         <props>[ ]</props>
         <required_translations>[ {
   "message" : "Collapse container to hide contents",
@@ -1428,13 +1431,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-29 22:56:36</sys_created_on>
         <sys_id>1f5a8f894db38190ab253fd51eec6177</sys_id>
-        <sys_mod_count>9</sys_mod_count>
         <sys_name>Home</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_ux_macroponent_1f5a8f894db38190ab253fd51eec6177</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-31 17:04:28</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>

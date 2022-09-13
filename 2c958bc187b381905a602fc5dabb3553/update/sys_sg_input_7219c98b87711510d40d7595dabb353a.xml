@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill_variable display_value="Unit Price Variable">dce8018b87711510d40d7595dabb352a</autofill_variable>
+        <category/>
+        <description/>
+        <label>Unit Price</label>
+        <mandatory>false</mandatory>
+        <name>Unit Price Input</name>
+        <order>35</order>
+        <page/>
+        <parameter_screen display_value="Edit M&amp;C Record">93deaa7d877385905a602fc5dabb3576</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 04:45:17</sys_created_on>
+        <sys_id>7219c98b87711510d40d7595dabb353a</sys_id>
+        <sys_name>Unit Price</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_input_7219c98b87711510d40d7595dabb353a</sys_update_name>
+        <type display_value="Number">8ceb241517021010f2b43b9fadb959a3</type>
+    </sys_sg_input>
+</record_update>

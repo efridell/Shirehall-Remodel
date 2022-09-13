@@ -11,15 +11,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>66eec2cf87fb0d905a602fc5dabb35f1</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>FDa2eec2cfbbfb0d90edd0e65db75392f1</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_complex_object_66eec2cf87fb0d905a602fc5dabb35f1</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:42</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
 </record_update>

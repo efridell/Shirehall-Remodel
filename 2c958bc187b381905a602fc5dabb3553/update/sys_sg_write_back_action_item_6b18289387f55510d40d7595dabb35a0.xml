@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New Remodel Task Action</name>
+        <parameter_screen display_value="New Remodel Task Input Form Screen">99686cd387f55510d40d7595dabb3571</parameter_screen>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 21:00:07</sys_created_on>
+        <sys_id>6b18289387f55510d40d7595dabb35a0</sys_id>
+        <sys_name>New Remodel Task Action</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_6b18289387f55510d40d7595dabb35a0</sys_update_name>
+        <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
+        <template>short_description={{Input: Short Description Input}}^assigned_to={{Input: Assigned To Input}}^priority={{Input: Priority Input}}</template>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=6b18289387f55510d40d7595dabb35a0"/>
+</record_update>

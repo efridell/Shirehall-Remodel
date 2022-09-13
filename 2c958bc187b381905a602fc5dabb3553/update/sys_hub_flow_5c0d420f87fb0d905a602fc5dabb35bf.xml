@@ -15,6 +15,7 @@
         <name>Calculate Item Price</name>
         <natlang/>
         <outputs/>
+        <pre_compiled>false</pre_compiled>
         <remote_trigger_id>0215f6c387ff0d905a602fc5dabb3542</remote_trigger_id>
         <run_as>user</run_as>
         <run_with_roles/>
@@ -28,15 +29,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c0d420f87fb0d905a602fc5dabb35bf</sys_id>
-        <sys_mod_count>5</sys_mod_count>
         <sys_name>Calculate Item Price</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_hub_flow_5c0d420f87fb0d905a602fc5dabb35bf</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:31:32</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=5c0d420f87fb0d905a602fc5dabb35bf"/>
@@ -201,6 +199,7 @@
         <element>current</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -247,6 +246,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -282,6 +282,7 @@
         <element>changed_fields</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -328,6 +329,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -363,6 +365,7 @@
         <element>table_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -409,6 +412,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -430,10 +434,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:28</sys_created_on>
         <sys_id>111576c387ff0d905a602fc5dabb3573</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:32:39</sys_updated_on>
+        <sys_updated_on>2022-09-12 04:55:14</sys_updated_on>
         <ui_id>d668e28b-d0b9-4bf1-929d-0403da5cf3eb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=111576c387ff0d905a602fc5dabb3573"/>
@@ -492,10 +496,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:29</sys_created_on>
         <sys_id>211576c387ff0d905a602fc5dabb357b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:32:39</sys_updated_on>
+        <sys_updated_on>2022-09-12 04:55:14</sys_updated_on>
         <ui_id>99aef8e8-11f1-4a94-a47e-e6d67a895ae0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=211576c387ff0d905a602fc5dabb357b"/>
@@ -570,11 +574,11 @@
         <sys_created_on>2022-06-04 23:39:25</sys_created_on>
         <sys_id>85bdc24f87fb0d905a602fc5dabb3582</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
         <url/>
@@ -593,11 +597,11 @@
         <sys_created_on>2022-06-04 23:39:25</sys_created_on>
         <sys_id>c1bdc24f87fb0d905a602fc5dabb3586</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
         <url/>
@@ -616,11 +620,11 @@
         <sys_created_on>2022-06-04 23:39:25</sys_created_on>
         <sys_id>c9bdc24f87fb0d905a602fc5dabb3589</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
         <url/>
@@ -634,7 +638,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"9215f6c387ff0d905a602fc5dabb3551","name":"plan","plan_signature":null}}</plan>
         <plan_id>5c0d420f87fb0d905a602fc5dabb35bf</plan_id>
-        <snapshot>fe55fec387ff0d905a602fc5dabb3570</snapshot>
+        <snapshot>e46b098f87711510d40d7595dabb35f6</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:31</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -798,6 +802,7 @@
         <element>changed_fields</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -844,6 +849,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -879,6 +885,7 @@
         <element>current</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -925,6 +932,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -960,6 +968,7 @@
         <element>table_name</element>
         <element_reference>false</element_reference>
         <foreign_database/>
+        <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <help/>
@@ -1006,6 +1015,7 @@
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>
         <virtual>false</virtual>
+        <virtual_type/>
         <widget/>
         <write_roles/>
         <xml_view>false</xml_view>
@@ -1167,11 +1177,11 @@
         <sys_created_on>2022-06-05 02:31:30</sys_created_on>
         <sys_id>3915b6c387ff0d905a602fc5dabb35d0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
         <url/>
@@ -1190,11 +1200,11 @@
         <sys_created_on>2022-06-05 02:31:30</sys_created_on>
         <sys_id>b915b6c387ff0d905a602fc5dabb35bf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
         <url/>
@@ -1213,11 +1223,11 @@
         <sys_created_on>2022-06-05 02:31:30</sys_created_on>
         <sys_id>f115b6c387ff0d905a602fc5dabb35c8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
         <url/>
@@ -1229,6 +1239,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>5c0d420f87fb0d905a602fc5dabb35bf</sys_id>
         <latest_snapshot>7d1576c387ff0d905a602fc5dabb35d1</latest_snapshot>
-        <compiler_build>glide-sandiego-12-22-2021__patch2-hotfix1-04-27-2022_05-02-2022_1316.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch0-07-19-2022_07-26-2022_2149.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

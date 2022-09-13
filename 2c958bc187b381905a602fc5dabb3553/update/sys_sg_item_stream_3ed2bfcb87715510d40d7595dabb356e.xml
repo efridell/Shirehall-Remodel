@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Unpurchased Garage Data Item">7ed2bfcb87715510d40d7595dabb356b</data_item>
+        <interleaved_field/>
+        <name>Garage List Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 17:06:56</sys_created_on>
+        <sys_id>3ed2bfcb87715510d40d7595dabb356e</sys_id>
+        <sys_name>Garage List Stream</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_item_stream_3ed2bfcb87715510d40d7595dabb356e</sys_update_name>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>
