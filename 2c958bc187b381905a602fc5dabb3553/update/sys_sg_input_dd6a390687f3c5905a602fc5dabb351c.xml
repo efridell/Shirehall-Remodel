@@ -5,7 +5,7 @@
         <category/>
         <description/>
         <label>Description</label>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <name>Description Input</name>
         <order>10</order>
         <page/>

@@ -5,7 +5,7 @@
         <category/>
         <description/>
         <label>Class</label>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <name>Class Input</name>
         <order>30</order>
         <page/>

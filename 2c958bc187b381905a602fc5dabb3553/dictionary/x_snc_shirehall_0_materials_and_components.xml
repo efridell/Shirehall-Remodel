@@ -33,11 +33,14 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="128" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model/Part Number" max_length="40" name="model_part_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1024" name="notes" type="string"/>
         <element label="Total Price" max_length="38" name="price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Product URL" max_length="1024" name="product_url" type="url"/>
         <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
         <element label="Quantity" max_length="38" name="quantity" type="decimal"/>
+        <element label="Selected" max_length="40" name="selected" type="boolean"/>
         <element label="Unit Price" max_length="40" name="unit_price" type="currency"/>
     </element>
 </database>

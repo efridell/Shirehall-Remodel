@@ -7,7 +7,7 @@
         <label>Unit Price</label>
         <mandatory>false</mandatory>
         <name>Unit Price Input</name>
-        <order>35</order>
+        <order>36</order>
         <page/>
         <parameter_screen display_value="New Material and Component">37482db987fb45905a602fc5dabb35ca</parameter_screen>
         <parameter_section/>

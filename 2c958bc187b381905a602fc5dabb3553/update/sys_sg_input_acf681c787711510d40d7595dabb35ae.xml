@@ -7,7 +7,7 @@
         <label>Quantity</label>
         <mandatory>false</mandatory>
         <name>Quantity Input</name>
-        <order>32</order>
+        <order>35</order>
         <page/>
         <parameter_screen display_value="Edit M&amp;C Record">93deaa7d877385905a602fc5dabb3576</parameter_screen>
         <parameter_section/>

@@ -15,7 +15,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_013eeef9877385905a602fc5dabb35c6</sys_update_name>
         <table>x_snc_shirehall_0_materials_and_components</table>
-        <template>area={{Input: Area Input}}^class={{Input: Class Input}}^description={{Input: Description Input}}^notes={{Input: Notes Input}}^purchased={{Input: Purchased Input}}^quantity={{Input: Quantity Input}}^unit_price={{Input: Unit Price Input}}</template>
+        <template>area={{Input: Area Input}}^class={{Input: Class Input}}^description={{Input: Description Input}}^notes={{Input: Notes Input}}^purchased={{Input: Purchased Input}}^quantity={{Input: Quantity Input}}^unit_price={{Input: Unit Price Input}}^selected={{Input: Selected Input}}^make={{Input: Make Input}}^model_part_number={{Input: Model/Part Number Input}}</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
         <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>

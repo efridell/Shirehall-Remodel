@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
     <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
         <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
-        <order/>
+        <order>1</order>
         <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-12 19:02:30</sys_created_on>
@@ -13,6 +13,6 @@
         <sys_update_name>sys_sg_ui_rule_action_f34d849787355510d40d7595dabb350a</sys_update_name>
         <target>container_04</target>
         <ui_rule display_value="Remodel Task High Priority">311d085787355510d40d7595dabb35e7</ui_rule>
-        <value>{"BackgroundColor": "fc6a03"}</value>
+        <value>{"BackgroundColor":"fc6a03"}</value>
     </sys_sg_ui_rule_action>
 </record_update>

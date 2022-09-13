@@ -3,7 +3,7 @@
         <active>true</active>
         <condition>text_01=2</condition>
         <name>Remodel Task Medium Priority</name>
-        <order/>
+        <order>20</order>
         <parent_id>46e5449b87f15510d40d7595dabb35c5</parent_id>
         <parent_table>sys_sg_view_config</parent_table>
         <reverse_if_false>false</reverse_if_false>

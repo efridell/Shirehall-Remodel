@@ -3,7 +3,7 @@
         <data_item_field_name>unit_price</data_item_field_name>
         <field_name/>
         <hidden>false</hidden>
-        <order>35</order>
+        <order>40</order>
         <record_id_field/>
         <screen display_value="M&amp;C Details">393bf2fd87b385905a602fc5dabb35c8</screen>
         <screen_data_item_table>x_snc_shirehall_0_materials_and_components</screen_data_item_table>
