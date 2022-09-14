@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f2b9","Name":"icon-Address-Book","FontColor":"#293E40","BackgroundColor":"#293E40"}</icon>
+        <name>Remodel Tasks Calendar Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 20:52:40</sys_created_on>
+        <sys_id>5f10f1ef87b5d510d40d7595dabb352c</sys_id>
+        <sys_name>Remodel Tasks Calendar Icon</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_icon_5f10f1ef87b5d510d40d7595dabb352c</sys_update_name>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

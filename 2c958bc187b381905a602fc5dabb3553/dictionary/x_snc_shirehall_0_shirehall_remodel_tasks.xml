@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="0e64ca6d87f51514d40d7595dabb35e3" extends="task" label="Shirehall Remodel Tasks" max_length="40" name="x_snc_shirehall_0_shirehall_remodel_tasks" text_index="true" type="collection"/>
+    <element audit="true" db_object_id="0e64ca6d87f51514d40d7595dabb35e3" extends="task" label="Shirehall Remodel Tasks" max_length="40" name="x_snc_shirehall_0_shirehall_remodel_tasks" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Finish By" max_length="40" name="finish_by" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Finish By Mobile" max_length="40" name="finish_by_mobile" type="calendar_date_time"/>
+    </element>
 </database>

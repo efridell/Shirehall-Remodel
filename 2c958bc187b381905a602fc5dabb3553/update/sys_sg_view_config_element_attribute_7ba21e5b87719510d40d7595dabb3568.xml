@@ -12,7 +12,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_view_config_element_attribute_7ba21e5b87719510d40d7595dabb3568</sys_update_name>
         <translated_value/>
-        <value>state</value>
+        <value>finish_by</value>
         <view_config_element display_value="Remodel Tasks List Record Screen View Config Element">165d8d1f87b95510d40d7595dabb3557</view_config_element>
     </sys_sg_view_config_element_attribute>
     <sys_translated_text action="delete_multiple" query="documentkey=7ba21e5b87719510d40d7595dabb3568"/>

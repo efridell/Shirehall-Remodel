@@ -7,7 +7,8 @@
         <name>Remodel Tasks Data Item</name>
         <offline_query_condition/>
         <offline_query_condition_script/>
-        <query_condition table="x_snc_shirehall_0_shirehall_remodel_tasks">stateNOT IN3,4,7<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+        <query_condition table="x_snc_shirehall_0_shirehall_remodel_tasks">stateNOT IN3,4,7^ORDERBYfinish_by,priority<item display_value="3,4,7" endquery="false" field="state" goto="false" newquery="false" operator="NOT IN" or="false" value="3,4,7"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="finish_by,priority"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>

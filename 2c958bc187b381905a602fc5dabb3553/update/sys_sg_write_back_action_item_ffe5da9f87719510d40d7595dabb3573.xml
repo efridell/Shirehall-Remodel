@@ -15,7 +15,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_ffe5da9f87719510d40d7595dabb3573</sys_update_name>
         <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
-        <template>short_description={{Input: Short Description Input}}^assigned_to={{Input: Assigned To Input}}^priority={{Input: Priority Input}}^state={{Input: State Input}}</template>
+        <template>short_description={{Input: Short Description Input}}^assigned_to={{Input: Assigned To Input}}^priority={{Input: Priority Input}}^state={{Input: State Input}}^finish_by_mobile={{Input: Finish By Mobile Input}}</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
         <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>

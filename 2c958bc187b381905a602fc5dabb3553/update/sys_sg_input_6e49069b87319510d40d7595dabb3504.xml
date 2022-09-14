@@ -7,7 +7,7 @@
         <label>Product URL</label>
         <mandatory>false</mandatory>
         <name>Product URL Input</name>
-        <order>55</order>
+        <order>70</order>
         <page/>
         <parameter_screen display_value="Edit M&amp;C Record">93deaa7d877385905a602fc5dabb3576</parameter_screen>
         <parameter_section/>

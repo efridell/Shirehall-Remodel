@@ -5,7 +5,7 @@
         <category/>
         <description/>
         <label>Assigned To</label>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <name>Assigned To Input</name>
         <order>20</order>
         <page/>

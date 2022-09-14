@@ -5,7 +5,7 @@
         <category/>
         <description/>
         <label>State</label>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <name>State Input</name>
         <order>40</order>
         <page/>

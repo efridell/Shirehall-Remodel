@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Shirehall Remodel">34dbc34d87b381905a602fc5dabb35ac</applet_launcher>
-        <order>20</order>
+        <order>40</order>
         <section display_value="Purchased vs Unpurchased">6f9c4adf87319510d40d7595dabb357e</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>

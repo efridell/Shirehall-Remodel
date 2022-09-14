@@ -5,7 +5,7 @@
         <category/>
         <description/>
         <label>Priority</label>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <name>Priority Input</name>
         <order>30</order>
         <page/>
