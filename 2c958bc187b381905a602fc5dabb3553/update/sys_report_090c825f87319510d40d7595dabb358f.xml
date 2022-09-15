@@ -29,7 +29,7 @@
         <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
         <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
-        <column/>
+        <column>selected</column>
         <compute_percent>aggregate</compute_percent>
         <content/>
         <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
@@ -79,7 +79,7 @@
         <report_drilldown/>
         <report_source/>
         <roles>snc_internal</roles>
-        <row/>
+        <row>purchased</row>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
         <sc_stackby_item_id/>
@@ -91,7 +91,7 @@
         <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
         <show_chart_total>false</show_chart_total>
-        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_data_label_position_middle>true</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
         <show_legend>true</show_legend>
@@ -106,18 +106,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-13 04:16:05</sys_created_on>
         <sys_id>090c825f87319510d40d7595dabb358f</sys_id>
-        <sys_name>Purchased vs Unpurchased</sys_name>
+        <sys_name>P vs UP (Stacked by Selected)</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_report_090c825f87319510d40d7595dabb358f</sys_update_name>
         <table>x_snc_shirehall_0_materials_and_components</table>
-        <title>Purchased vs Unpurchased</title>
+        <title>P vs UP (Stacked by Selected)</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field/>
-        <type>donut</type>
+        <trend_field>selected</trend_field>
+        <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>

@@ -2,7 +2,7 @@
     <sys_sg_chart action="INSERT_OR_UPDATE">
         <jump_to_screen display_value="">{}</jump_to_screen>
         <name>Purchased vs Unpurchased</name>
-        <report display_value="Purchased vs Unpurchased">090c825f87319510d40d7595dabb358f</report>
+        <report display_value="P vs UP (Stacked by Selected)">090c825f87319510d40d7595dabb358f</report>
         <sys_class_name>sys_sg_chart</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-13 04:18:06</sys_created_on>
