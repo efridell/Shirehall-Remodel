@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Walkin List Stream">0dd0bf0b87715510d40d7595dabb3523</item_stream>
+        <segment display_value="Walkin Screen Segment">c5d0bf0b87715510d40d7595dabb351e</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 16:58:04</sys_created_on>
+        <sys_id>09d0bf0b87715510d40d7595dabb3526</sys_id>
+        <sys_name/>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_09d0bf0b87715510d40d7595dabb3526</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable_attribute">
+    <sys_sg_variable_attribute action="DELETE">
+        <name>FieldName</name>
+        <sys_class_name>sys_sg_variable_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 04:32:14</sys_created_on>
+        <sys_id>bb16cd4787711510d40d7595dabb3569</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FieldName</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_variable_attribute_bb16cd4787711510d40d7595dabb3569</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 04:32:14</sys_updated_on>
+        <value>quantity</value>
+        <variable display_value="Quantity Variable">7f16cd4787711510d40d7595dabb3566</variable>
+    </sys_sg_variable_attribute>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_sg_variable_attribute_bb16cd4787711510d40d7595dabb3569</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable_attribute"><sys_sg_variable_attribute action="INSERT_OR_UPDATE"><name>FieldName</name><sys_class_name>sys_sg_variable_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-12 04:32:14</sys_created_on><sys_id>bb16cd4787711510d40d7595dabb3569</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FieldName</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_variable_attribute_bb16cd4787711510d40d7595dabb3569</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-12 04:32:14</sys_updated_on><value>quantity</value><variable display_value="Quantity Variable">7f16cd4787711510d40d7595dabb3566</variable></sys_sg_variable_attribute></record_update>]]></payload>
+        <payload_hash>-310247934</payload_hash>
+        <record_name>FieldName</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 04:32:14</sys_created_on>
+        <sys_id>7316cd4787711510d40d7595dabb356c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1832ff824500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 04:32:14</sys_updated_on>
+        <type>Variable Attribute</type>
+        <update_guid>7b16cd47a17115103f00f2f24579b86b</update_guid>
+        <update_guid_history>7b16cd47a17115103f00f2f24579b86b:-310247934</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 04:33:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_variable_attribute">sys_sg_variable_attribute</sys_db_object>
+        <sys_id>757625c2950346c2995dabaa9a9c20e1</sys_id>
+        <sys_metadata>bb16cd4787711510d40d7595dabb3569</sys_metadata>
+        <sys_name>FieldName</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_variable_attribute_bb16cd4787711510d40d7595dabb3569</sys_update_name>
+        <sys_update_version display_value="sys_sg_variable_attribute_bb16cd4787711510d40d7595dabb3569">7316cd4787711510d40d7595dabb356c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

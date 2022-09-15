@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute">
+    <sys_sg_view_template_slot_attribute action="DELETE">
+        <description>assignedToValue_Typography</description>
+        <name display_value="Typography">30871ab9b701301096aa25efce11a925</name>
+        <sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 21:30:51</sys_created_on>
+        <sys_id>e2d871238739d510d40d7595dabb3536</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30871ab9b701301096aa25efce11a925</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_attribute_e2d871238739d510d40d7595dabb3536</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 21:30:51</sys_updated_on>
+        <translated_value/>
+        <value>Subhead 1</value>
+        <view_template_slot display_value="assignedToValue">ee7839ef87f5d510d40d7595dabb35b9</view_template_slot>
+    </sys_sg_view_template_slot_attribute>
+    <sys_translated_text action="DELETE" query="documentkey=e2d871238739d510d40d7595dabb3536"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_sg_view_template_slot_attribute_e2d871238739d510d40d7595dabb3536</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot_attribute"><sys_sg_view_template_slot_attribute action="INSERT_OR_UPDATE"><description>assignedToValue_Typography</description><name display_value="Typography">30871ab9b701301096aa25efce11a925</name><sys_class_name>sys_sg_view_template_slot_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-13 21:30:51</sys_created_on><sys_id>e2d871238739d510d40d7595dabb3536</sys_id><sys_mod_count>0</sys_mod_count><sys_name>30871ab9b701301096aa25efce11a925</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_view_template_slot_attribute_e2d871238739d510d40d7595dabb3536</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-13 21:30:51</sys_updated_on><translated_value/><value>Subhead 1</value><view_template_slot display_value="assignedToValue">ee7839ef87f5d510d40d7595dabb35b9</view_template_slot></sys_sg_view_template_slot_attribute><sys_translated_text action="delete_multiple" query="documentkey=e2d871238739d510d40d7595dabb3536"/></record_update>]]></payload>
+        <payload_hash>-1856800394</payload_hash>
+        <record_name>30871ab9b701301096aa25efce11a925</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 21:30:51</sys_created_on>
+        <sys_id>26d871238739d510d40d7595dabb3538</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18338c30f420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 21:30:51</sys_updated_on>
+        <type>Card template element attribute</type>
+        <update_guid>2ed87123aa39d510a78be234451b3637</update_guid>
+        <update_guid_history>2ed87123aa39d510a78be234451b3637:-1856800394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 21:34:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_template_slot_attribute">sys_sg_view_template_slot_attribute</sys_db_object>
+        <sys_id>1f54e39a4de8429995f9262f6b188359</sys_id>
+        <sys_metadata>e2d871238739d510d40d7595dabb3536</sys_metadata>
+        <sys_name>30871ab9b701301096aa25efce11a925</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_view_template_slot_attribute_e2d871238739d510d40d7595dabb3536</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_template_slot_attribute_e2d871238739d510d40d7595dabb3536">26d871238739d510d40d7595dabb3538</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

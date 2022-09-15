@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="DELETE">
+        <active>true</active>
+        <autofill_variable/>
+        <category/>
+        <description/>
+        <label>Finish By</label>
+        <mandatory>true</mandatory>
+        <name>Finish By Input</name>
+        <order>35</order>
+        <page/>
+        <parameter_screen display_value="Edit Remodel Task">46261adf87719510d40d7595dabb35ff</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 21:43:54</sys_created_on>
+        <sys_id>31db3d278739d510d40d7595dabb3538</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Finish By</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_input_31db3d278739d510d40d7595dabb3538</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 21:47:21</sys_updated_on>
+        <type display_value="Date/Time">2c0c605517021010f2b43b9fadb9590a</type>
+    </sys_sg_input>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_sg_input_31db3d278739d510d40d7595dabb3538</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input"><sys_sg_input action="INSERT_OR_UPDATE"><active>true</active><autofill_variable/><category/><description/><label>Finish By</label><mandatory>true</mandatory><name>Finish By Input</name><order>35</order><page/><parameter_screen display_value="Edit Remodel Task">46261adf87719510d40d7595dabb35ff</parameter_screen><parameter_section/><placeholder/><readonly>false</readonly><sys_class_name>sys_sg_input</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-13 21:43:54</sys_created_on><sys_id>31db3d278739d510d40d7595dabb3538</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Finish By</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_input_31db3d278739d510d40d7595dabb3538</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-13 21:47:21</sys_updated_on><type display_value="Date/Time">2c0c605517021010f2b43b9fadb9590a</type></sys_sg_input></record_update>]]></payload>
+        <payload_hash>1908988129</payload_hash>
+        <record_name>Finish By</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:05:13</sys_created_on>
+        <sys_id>457e46a387b9d510d40d7595dabb3583</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183391977bc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 23:05:13</sys_updated_on>
+        <type>Input</type>
+        <update_guid>dcacf1a78b39d510f5f1c7bb43cb1ca4</update_guid>
+        <update_guid_history>dcacf1a78b39d510f5f1c7bb43cb1ca4:1836212898,dcacf1a78b39d510f5f1c7bb43cb1ca4:1836212898,6afbf1673739d5100bb2718e40df2d2b:1482126142,75ebfd277f39d5102bac44292a7a1fa5:-1892177532,b9dbfd270e39d510ec790ddca95f8e6e:1154893379</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 23:05:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_input">sys_sg_input</sys_db_object>
+        <sys_id>061fc47973ec4fc080d35aef5c04b110</sys_id>
+        <sys_metadata>31db3d278739d510d40d7595dabb3538</sys_metadata>
+        <sys_name>Finish By</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_input_31db3d278739d510d40d7595dabb3538</sys_update_name>
+        <sys_update_version display_value="sys_sg_input_31db3d278739d510d40d7595dabb3538">457e46a387b9d510d40d7595dabb3583</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

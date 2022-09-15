@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map">
+    <sys_sg_related_list_map action="DELETE">
+        <context_field/>
+        <destination_screen display_value="M&amp;C for Remodel Task Related List">c46af02f8771d510d40d7595dabb35fa</destination_screen>
+        <related_list_screen display_value="Related List">de68306b8771d510d40d7595dabb3532</related_list_screen>
+        <relationship>x_snc_shirehall_0_materials_and_components.remodel_task</relationship>
+        <sys_class_name>sys_sg_related_list_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 18:00:25</sys_created_on>
+        <sys_id>0cb805a387f1d510d40d7595dabb3551</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c46af02f8771d510d40d7595dabb35fa</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_related_list_map_0cb805a387f1d510d40d7595dabb3551</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 18:00:25</sys_updated_on>
+    </sys_sg_related_list_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_sg_related_list_map_0cb805a387f1d510d40d7595dabb3551</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_related_list_map"><sys_sg_related_list_map action="INSERT_OR_UPDATE"><context_field/><destination_screen display_value="M&amp;C for Remodel Task Related List">c46af02f8771d510d40d7595dabb35fa</destination_screen><related_list_screen display_value="Related List">de68306b8771d510d40d7595dabb3532</related_list_screen><relationship>x_snc_shirehall_0_materials_and_components.remodel_task</relationship><sys_class_name>sys_sg_related_list_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-13 18:00:25</sys_created_on><sys_id>0cb805a387f1d510d40d7595dabb3551</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c46af02f8771d510d40d7595dabb35fa</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_related_list_map_0cb805a387f1d510d40d7595dabb3551</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-13 18:00:25</sys_updated_on></sys_sg_related_list_map></record_update>]]></payload>
+        <payload_hash>1121338744</payload_hash>
+        <record_name>c46af02f8771d510d40d7595dabb35fa</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 18:00:25</sys_created_on>
+        <sys_id>84b805a387f1d510d40d7595dabb3554</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833802677b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 18:00:25</sys_updated_on>
+        <type>Related lists mapping</type>
+        <update_guid>8cb805a3bcf1d510ad98fb10b4fffb53</update_guid>
+        <update_guid_history>8cb805a3bcf1d510ad98fb10b4fffb53:1121338744</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 18:03:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_related_list_map">sys_sg_related_list_map</sys_db_object>
+        <sys_id>299216f5d78b4350929cf3ff214e6100</sys_id>
+        <sys_metadata>0cb805a387f1d510d40d7595dabb3551</sys_metadata>
+        <sys_name>c46af02f8771d510d40d7595dabb35fa</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_related_list_map_0cb805a387f1d510d40d7595dabb3551</sys_update_name>
+        <sys_update_version display_value="sys_sg_related_list_map_0cb805a387f1d510d40d7595dabb3551">84b805a387f1d510d40d7595dabb3554</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>purchasedLabel_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 05:50:04</sys_created_on>
+        <sys_id>ad816e5387f19510d40d7595dabb35e6</sys_id>
+        <sys_name>purchasedLabel_element</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_ad816e5387f19510d40d7595dabb35e6</sys_update_name>
+        <view_config display_value="All Materials and Components Record Screen Card">624ed0c7877dd110d40d7595dabb3549</view_config>
+        <view_template_slot display_value="purchasedLabel">588e5edb87b19510d40d7595dabb35e4</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

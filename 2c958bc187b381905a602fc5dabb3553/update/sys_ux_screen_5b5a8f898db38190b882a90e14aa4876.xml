@@ -85,7 +85,7 @@
     "type" : "EVENT"
   } ]
 } ]</event_mappings>
-        <macroponent display_value="Dashboard">70fffc42c3b02010ec37e0dd9740dd88</macroponent>
+        <macroponent display_value="">70fffc42c3b02010ec37e0dd9740dd88</macroponent>
         <macroponent_config>{
   "sysId" : "",
   "label" : "",
@@ -108,15 +108,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5b5a8f898db38190b882a90e14aa4876</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Dashboard default</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_ux_screen_5b5a8f898db38190b882a90e14aa4876</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-29 22:56:36</sys_updated_on>
     </sys_ux_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=5b5a8f898db38190b882a90e14aa4876"/>
 </record_update>

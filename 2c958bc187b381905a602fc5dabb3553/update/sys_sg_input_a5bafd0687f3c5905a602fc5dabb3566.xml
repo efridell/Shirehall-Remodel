@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
     <sys_sg_input action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <autofill_variable display_value="Price Variable">bde9f9c287f3c5905a602fc5dabb3591</autofill_variable>
         <category/>
         <description/>
-        <label>Price</label>
+        <label>Total Price</label>
         <mandatory>false</mandatory>
-        <name>Price Input</name>
+        <name>Total Price Input</name>
         <order>40</order>
         <page/>
         <parameter_screen display_value="Edit M&amp;C Record">93deaa7d877385905a602fc5dabb3576</parameter_screen>
@@ -17,14 +17,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-01 19:42:31</sys_created_on>
         <sys_id>a5bafd0687f3c5905a602fc5dabb3566</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Price</sys_name>
+        <sys_name>Total Price</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_input_a5bafd0687f3c5905a602fc5dabb3566</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-01 19:47:35</sys_updated_on>
         <type display_value="Number">8ceb241517021010f2b43b9fadb959a3</type>
     </sys_sg_input>
 </record_update>

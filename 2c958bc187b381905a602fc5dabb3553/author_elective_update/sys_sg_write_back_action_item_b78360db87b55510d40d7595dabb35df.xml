@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description/>
+        <execution_script/>
+        <name>New Remodel Task Action Item</name>
+        <parameter_screen display_value="New Remodel Task Form Screen">6654ac1f87b55510d40d7595dabb354e</parameter_screen>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:39:43</sys_created_on>
+        <sys_id>b78360db87b55510d40d7595dabb35df</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>New Remodel Task Action Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_b78360db87b55510d40d7595dabb35df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:53:11</sys_updated_on>
+        <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
+        <template>short_description={{Input: Short Description}}</template>
+        <type>new</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=b78360db87b55510d40d7595dabb35df"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_sg_write_back_action_item_b78360db87b55510d40d7595dabb35df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description/><execution_script/><name>New Remodel Task Action Item</name><parameter_screen display_value="New Remodel Task Form Screen">6654ac1f87b55510d40d7595dabb354e</parameter_screen><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-12 20:39:43</sys_created_on><sys_id>b78360db87b55510d40d7595dabb35df</sys_id><sys_mod_count>4</sys_mod_count><sys_name>New Remodel Task Action Item</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_sg_write_back_action_item_b78360db87b55510d40d7595dabb35df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-12 20:53:11</sys_updated_on><table>x_snc_shirehall_0_shirehall_remodel_tasks</table><template>short_description={{Input: Short Description}}</template><type>new</type><use_current_record_as_condition>true</use_current_record_as_condition><use_fields_for_ref_lookup>false</use_fields_for_ref_lookup></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=b78360db87b55510d40d7595dabb35df"/></record_update>]]></payload>
+        <payload_hash>-1966653899</payload_hash>
+        <record_name>New Remodel Task Action Item</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 20:53:11</sys_created_on>
+        <sys_id>d5a6ac1387f55510d40d7595dabb35a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183337a3a7e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 20:53:11</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>5da6ac139cf555101fb335aae6c988a0</update_guid>
+        <update_guid_history>5da6ac139cf555101fb335aae6c988a0:-1966653899,5a95ec9f03b5551059ea8a331847df3a:-658979187,6e54245f95b55510a09a18efc4ca134e:1375369421,b114ac1ff4b5551024e6e7dee71e7538:-902857846,f78360db4cb555109a10c0b46279eee2:971724807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 21:06:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>045d439cd6cc4bac86f0550ab0d21e90</sys_id>
+        <sys_metadata>b78360db87b55510d40d7595dabb35df</sys_metadata>
+        <sys_name>New Remodel Task Action Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_b78360db87b55510d40d7595dabb35df</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_b78360db87b55510d40d7595dabb35df">d5a6ac1387f55510d40d7595dabb35a1</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

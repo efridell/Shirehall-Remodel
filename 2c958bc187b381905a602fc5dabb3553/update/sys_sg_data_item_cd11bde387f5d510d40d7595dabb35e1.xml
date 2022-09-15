@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Remodel Tasks Calendar Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_snc_shirehall_0_shirehall_remodel_tasks">stateIN-5,1,2<item display_value="-5,1,2" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="-5,1,2"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 20:56:53</sys_created_on>
+        <sys_id>cd11bde387f5d510d40d7595dabb35e1</sys_id>
+        <sys_name>Remodel Tasks Calendar Data Item</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_data_item_cd11bde387f5d510d40d7595dabb35e1</sys_update_name>
+        <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd11bde387f5d510d40d7595dabb35e1"/>
+</record_update>

@@ -4,13 +4,13 @@
             <element>description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>38e88d31877b45905a602fc5dabb35b6</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1112f4af8731d510d40d7595dabb3527</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>41e88d31877b45905a602fc5dabb35b7</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1912f4af8731d510d40d7595dabb3527</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,55 +32,55 @@
             <element>area</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>45e88d31877b45905a602fc5dabb35b7</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1d12f4af8731d510d40d7595dabb3527</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>class</element>
+            <element>make</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>49e88d31877b45905a602fc5dabb35b7</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1112f4af8731d510d40d7595dabb3528</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>model_part_number</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>4de88d31877b45905a602fc5dabb35b7</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1512f4af8731d510d40d7595dabb3528</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
-            <type>.split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>price</element>
+            <element>selected</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>41e88d31877b45905a602fc5dabb35b8</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1912f4af8731d510d40d7595dabb3528</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,41 +88,139 @@
             <element>purchased</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>45e88d31877b45905a602fc5dabb35b8</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1d12f4af8731d510d40d7595dabb3528</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1112f4af8731d510d40d7595dabb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1512f4af8731d510d40d7595dabb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1912f4af8731d510d40d7595dabb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit_price</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1d12f4af8731d510d40d7595dabb3529</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1112f4af8731d510d40d7595dabb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remodel_task</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1512f4af8731d510d40d7595dabb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>49e88d31877b45905a602fc5dabb35b8</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1912f4af8731d510d40d7595dabb352a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>notes</element>
-            <position>8</position>
+            <element>product_url</element>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-05-31 21:26:21</sys_created_on>
-            <sys_id>4de88d31877b45905a602fc5dabb35b8</sys_id>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1d12f4af8731d510d40d7595dabb352a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="516e58028792011058882f45dabb35c8">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-31 21:26:21</sys_updated_on>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-13 16:21:39</sys_created_on>
+            <sys_id>1112f4af8731d510d40d7595dabb352b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_shirehall_0_materials_and_components" sys_domain="global" view="2e93883187811110d40d7595dabb35e6">0ea5e8d587bb81905a602fc5dabb35b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 16:21:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -137,18 +235,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0ea5e8d587bb81905a602fc5dabb35b6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_shirehall_0_materials_and_components</sys_name>
             <sys_overrides/>
             <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
             <sys_policy/>
             <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
             <sys_update_name>sys_ui_section_0ea5e8d587bb81905a602fc5dabb35b6</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-05-30 05:35:27</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Workspace" name="workspace">516e58028792011058882f45dabb35c8</view>
+            <view display_value="Workspace" name="workspace">2e93883187811110d40d7595dabb35e6</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

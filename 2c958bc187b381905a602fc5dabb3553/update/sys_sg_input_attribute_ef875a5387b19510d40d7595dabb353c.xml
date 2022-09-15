@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Assigned To">ef875a5387b19510d40d7595dabb3537</input>
+        <name>Conditions</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 05:06:30</sys_created_on>
+        <sys_id>ef875a5387b19510d40d7595dabb353c</sys_id>
+        <sys_name>Conditions</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_ef875a5387b19510d40d7595dabb353c</sys_update_name>
+        <value>roles=x_snc_shirehall_0.user</value>
+    </sys_sg_input_attribute>
+</record_update>

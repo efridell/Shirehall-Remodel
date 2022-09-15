@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <last_registered_on>2022-06-15 23:15:10</last_registered_on>
+        <active>false</active>
+        <last_registered_on>2022-09-13 19:39:07</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-29 23:04:34</sys_created_on>
         <sys_id>c83c8b8187b3c19058882f45dabb3558</sys_id>
-        <sys_mod_count>664</sys_mod_count>
         <sys_name>fMW37EeRTuq2dEGej4CCwE:APA91bHbGiEofLreUEpWH7SHqB28PtRCQcbBB7xPhGjWR82_Q91a_DL-7Q1_E-y_J5vSE7m4Z-0fW_V9d_4OOzEvELP-xwG7RW2UtgufJ9pS9pXHVVoXv6ost76GakD_2JiXqjsgaFgM</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
@@ -14,8 +13,6 @@
         <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_push_notif_app_install_c83c8b8187b3c19058882f45dabb3558</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-15 23:15:10</sys_updated_on>
         <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>fMW37EeRTuq2dEGej4CCwE:APA91bHbGiEofLreUEpWH7SHqB28PtRCQcbBB7xPhGjWR82_Q91a_DL-7Q1_E-y_J5vSE7m4Z-0fW_V9d_4OOzEvELP-xwG7RW2UtgufJ9pS9pXHVVoXv6ost76GakD_2JiXqjsgaFgM</token>
     </sys_push_notif_app_install>

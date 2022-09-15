@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Remodel Task Function">ffe5da9f87719510d40d7595dabb3577</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>leading_swipe</location>
+        <name>Edit Remodel Task</name>
+        <order>10</order>
+        <parent>8ee5c49b87f15510d40d7595dabb35c5</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-13 05:16:13</sys_created_on>
+        <sys_id>b1c9d25787b19510d40d7595dabb35a8</sys_id>
+        <sys_name>Edit Remodel Task</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b1c9d25787b19510d40d7595dabb35a8</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b1c9d25787b19510d40d7595dabb35a8"/>
+</record_update>

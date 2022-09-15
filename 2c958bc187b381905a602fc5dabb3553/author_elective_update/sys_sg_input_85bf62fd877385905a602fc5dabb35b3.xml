@@ -60,7 +60,6 @@
         <sys_db_object display_value="" name="sys_sg_input">sys_sg_input</sys_db_object>
         <sys_id>01e7571df0c34d888003f5ddc3437790</sys_id>
         <sys_metadata>85bf62fd877385905a602fc5dabb35b3</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Class</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -69,7 +68,5 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_input_85bf62fd877385905a602fc5dabb35b3</sys_update_name>
         <sys_update_version display_value="sys_sg_input_85bf62fd877385905a602fc5dabb35b3">2280f63187b385905a602fc5dabb3584</sys_update_version>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-01 17:54:37</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

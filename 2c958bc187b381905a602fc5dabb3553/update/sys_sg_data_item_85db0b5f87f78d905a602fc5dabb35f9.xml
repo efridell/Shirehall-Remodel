@@ -4,10 +4,11 @@
         <description/>
         <group_by/>
         <instance_relative_url_qc/>
-        <name>Front Bathroom Data Item</name>
+        <name>Unpurchased Front Bathroom Data Item</name>
         <offline_query_condition/>
         <offline_query_condition_script/>
-        <query_condition table="x_snc_shirehall_0_materials_and_components">area=front_bathroom^ORDERBYarea,class,description<item display_value="Front Bathroom" endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="front_bathroom"/>
+        <query_condition table="x_snc_shirehall_0_materials_and_components">area=front_bathroom^purchased=false^ORDERBYarea,class,description<item display_value="Front Bathroom" endquery="false" field="area" goto="false" newquery="false" operator="=" or="false" value="front_bathroom"/>
+            <item endquery="false" field="purchased" goto="false" newquery="false" operator="=" or="false" value="false"/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="area,class,description"/>
         </query_condition>
         <query_condition_script/>
@@ -15,14 +16,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 22:49:19</sys_created_on>
         <sys_id>85db0b5f87f78d905a602fc5dabb35f9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Front Bathroom Data Item</sys_name>
+        <sys_name>Unpurchased Front Bathroom Data Item</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_data_item_85db0b5f87f78d905a602fc5dabb35f9</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 22:49:19</sys_updated_on>
         <table>x_snc_shirehall_0_materials_and_components</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=85db0b5f87f78d905a602fc5dabb35f9"/>

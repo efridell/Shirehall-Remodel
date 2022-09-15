@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Remodel Tasks List Stream">dded7b4f87b15510d40d7595dabb3558</item_stream>
+        <master_item display_value="Remodel Tasks List Item Config">8c4eb38f87b15510d40d7595dabb358a</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 17:56:42</sys_created_on>
+        <sys_id>4c4eb38f87b15510d40d7595dabb358d</sys_id>
+        <sys_name/>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_4c4eb38f87b15510d40d7595dabb358d</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

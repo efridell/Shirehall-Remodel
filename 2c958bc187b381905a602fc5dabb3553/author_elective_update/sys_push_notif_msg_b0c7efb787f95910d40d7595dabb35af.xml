@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="DELETE">
+        <message_string>A Remodel Task has been updated!</message_string>
+        <name>Remodel Task Update</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content/>
+        <subject>Remodel Task Updated</subject>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 00:14:21</sys_created_on>
+        <sys_id>b0c7efb787f95910d40d7595dabb35af</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Remodel Task Update</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_push_notif_msg_b0c7efb787f95910d40d7595dabb35af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 00:21:08</sys_updated_on>
+        <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
+        <type>push</type>
+    </sys_push_notif_msg>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</application>
+        <file_path/>
+        <instance_id>c29dbb29db81dd58387021c4059619a8</instance_id>
+        <instance_name>ecfteademo</instance_name>
+        <name>sys_push_notif_msg_b0c7efb787f95910d40d7595dabb35af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg"><sys_push_notif_msg action="INSERT_OR_UPDATE"><message_string>A Remodel Task has been updated!</message_string><name>Remodel Task Update</name><push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app><push_message_content/><subject>Remodel Task Updated</subject><sys_class_name>sys_push_notif_msg</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-15 00:14:21</sys_created_on><sys_id>b0c7efb787f95910d40d7595dabb35af</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Remodel Task Update</sys_name><sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package><sys_policy/><sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope><sys_update_name>sys_push_notif_msg_b0c7efb787f95910d40d7595dabb35af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-15 00:21:08</sys_updated_on><table>x_snc_shirehall_0_shirehall_remodel_tasks</table><type>push</type></sys_push_notif_msg></record_update>]]></payload>
+        <payload_hash>-1489836817</payload_hash>
+        <record_name>Remodel Task Update</record_name>
+        <reverted_from/>
+        <source>afc506e587f51514d40d7595dabb3543</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 02:54:08</sys_created_on>
+        <sys_id>0c7cc04087ce5910d40d7595dabb354a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833f1168200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 02:54:08</sys_updated_on>
+        <type>Push Notification Message</type>
+        <update_guid>76692f3bdbf95910f13a2ff1287ab18c</update_guid>
+        <update_guid_history>76692f3bdbf95910f13a2ff1287ab18c:-722583512,76692f3bdbf95910f13a2ff1287ab18c:-722583512,58696b3b9cf9591009adf08107681c07:1622289300,79592f3b44f95910a82e972d5177884c:-1073012371,a7d72b777af95910cf265988680a3065:1030630676</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-15 02:55:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_push_notif_msg">sys_push_notif_msg</sys_db_object>
+        <sys_id>15228777a5834136af732fe22deb5de4</sys_id>
+        <sys_metadata>b0c7efb787f95910d40d7595dabb35af</sys_metadata>
+        <sys_name>Remodel Task Update</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
+        <sys_update_name>sys_push_notif_msg_b0c7efb787f95910d40d7595dabb35af</sys_update_name>
+        <sys_update_version display_value="sys_push_notif_msg_b0c7efb787f95910d40d7595dabb35af">0c7cc04087ce5910d40d7595dabb354a</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

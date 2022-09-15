@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" label="Materials and Components" max_length="40" name="x_snc_shirehall_0_materials_and_components" sizeclass="119" text_index="true" type="collection">
+    <element audit="true" db_object_id="06640e6d87f51514d40d7595dabb35dc" label="Materials and Components" max_length="40" name="x_snc_shirehall_0_materials_and_components" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Area" max_length="40" name="area" type="string">
             <choice>
                 <element inactive_on_update="false" label="Addition" sequence="0" value="addition"/>
@@ -33,11 +33,18 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" display="true" label="Description" max_length="128" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model/Part Number" max_length="40" name="model_part_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1024" name="notes" type="string"/>
         <element label="Total Price" max_length="38" name="price" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Product URL" max_length="1024" name="product_url" type="url"/>
         <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
         <element label="Quantity" max_length="38" name="quantity" type="decimal"/>
-        <element label="Unit Price" max_length="40" name="unit_price" type="currency"/>
+        <element label="Remodel Task" max_length="32" name="remodel_task" reference="x_snc_shirehall_0_shirehall_remodel_tasks" type="reference"/>
+        <element label="Selected" max_length="40" name="selected" type="boolean"/>
+        <element label="Unit Price" max_length="38" name="unit_price" type="currency"/>
+        <index name="index">
+            <element name="remodel_task"/>
+        </index>
     </element>
 </database>

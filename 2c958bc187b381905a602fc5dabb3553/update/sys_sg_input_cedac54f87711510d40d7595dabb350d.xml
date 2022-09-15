@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill_variable/>
+        <category/>
+        <description/>
+        <label>Unit Price</label>
+        <mandatory>false</mandatory>
+        <name>Unit Price Input</name>
+        <order>36</order>
+        <page/>
+        <parameter_screen display_value="New Material and Component">37482db987fb45905a602fc5dabb35ca</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>false</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 04:52:52</sys_created_on>
+        <sys_id>cedac54f87711510d40d7595dabb350d</sys_id>
+        <sys_name>Unit Price</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_sg_input_cedac54f87711510d40d7595dabb350d</sys_update_name>
+        <type display_value="Number">8ceb241517021010f2b43b9fadb959a3</type>
+    </sys_sg_input>
+</record_update>
