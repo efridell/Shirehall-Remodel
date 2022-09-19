@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description/>
+        <name>Shirehall Remodel - Create Missing Lists</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[var target = new GlideRecord('sys_ux_list');
+target.addEncodedQuery('sys_scope=2c958bc187b381905a602fc5dabb3553');
+target.query(); // Issue the query to the database to get relevant records 
+
+while (target.next()) {
+
+    //     gs.info('Target SYS ID: ' + target.sys_id);
+    //     gs.info('Target SYS ID: ' + target.title);
+
+    var checkListQuery = 'sys_scope=2c958bc187b381905a602fc5dabb3553^list=' + target.sys_id;
+
+    //     gs.info('Encoded Query is: ' + checkListQuery);
+
+    var checkList = new GlideRecord('sys_ux_applicability_m2m_list');
+    checkList.addEncodedQuery(checkListQuery);
+    checkList.query(); // Issue the query to the database to get relevant records 
+
+    checkList.next();
+
+    if (checkList.sys_id == null) {
+        //         gs.info('WE NEED A LIST');
+        //         gs.info('UX Applicability List is: ' + checkList.sys_id);
+        var newList = new GlideRecord('sys_ux_applicability_m2m_list');
+        newList.newRecord();
+        newList.list = target.sys_id;
+        newList.applicability = 'fb5a8f8987b381905a602fc5dabb35ee';
+        newList.insert();
+    }
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-18 23:59:20</sys_created_on>
+        <sys_id>63ba4019870211509b330fec0ebb350a</sys_id>
+        <sys_name>Shirehall Remodel - Create Missing Lists</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sys_script_fix_63ba4019870211509b330fec0ebb350a</sys_update_name>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

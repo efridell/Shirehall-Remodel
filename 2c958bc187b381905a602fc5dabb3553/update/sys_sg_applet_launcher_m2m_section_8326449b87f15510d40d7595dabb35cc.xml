@@ -2,7 +2,7 @@
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
         <applet_launcher display_value="Shirehall Remodel">34dbc34d87b381905a602fc5dabb35ac</applet_launcher>
         <order>10</order>
-        <section display_value="Remodel Tasks">0f26449b87f15510d40d7595dabb35c9</section>
+        <section display_value="Top 5 Tasks (See All --&gt;)">0f26449b87f15510d40d7595dabb35c9</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-12 18:31:19</sys_created_on>
