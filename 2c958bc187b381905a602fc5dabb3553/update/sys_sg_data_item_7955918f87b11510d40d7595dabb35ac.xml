@@ -15,11 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-12 05:38:44</sys_created_on>
         <sys_id>7955918f87b11510d40d7595dabb35ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Unpurchased Office/Guest Bedroom Data Item</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_data_item_7955918f87b11510d40d7595dabb35ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table>x_snc_shirehall_0_materials_and_components</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=7955918f87b11510d40d7595dabb35ac"/>

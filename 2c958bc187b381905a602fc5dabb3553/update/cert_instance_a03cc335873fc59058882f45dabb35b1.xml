@@ -53,17 +53,20 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a03cc335873fc59058882f45dabb35b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Unix Server in South Africa</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>cert_instance_a03cc335873fc59058882f45dabb35b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table>cmdb_ci_unix_server</table>
         <task_description>Remedy the discrepancies listed in the Audit Results below</task_description>
         <template/>
         <threshold_count>5</threshold_count>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
-        <user display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</user>
+        <user display_value="Abel Tuter (Architect)">62826bf03710200044e0bfc8bcbe5df1</user>
     </cert_instance>
 </record_update>

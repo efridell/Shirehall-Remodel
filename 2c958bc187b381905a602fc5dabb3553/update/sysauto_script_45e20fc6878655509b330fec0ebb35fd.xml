@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <name>0a57baca874e9510d40d7595dabb3514</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2022-09-21 21:19:08</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <script><![CDATA[gs.setProperty('glide.ui.polaris.ais_ready',true);
+gs.setProperty('glide.ui.polaris.dark_themes_enabled',true);
+gs.setProperty('glide.ui.polaris.enable_global_service_worker',true);
+gs.setProperty('glide.ui.polaris.experience',true);
+gs.setProperty('glide.ui.polaris.global_search',true);
+gs.setProperty('glide.ui.polaris.history.recording','ENTRY');
+gs.setProperty('glide.ui.polaris.history.url.param_blocklist',["tinyId"]);
+gs.setProperty('glide.ui.polaris.list_style.enable_highlighted_value_style',true);
+gs.setProperty('glide.ui.polaris.login.show_illustrations',true);
+gs.setProperty('glide.ui.polaris.menus',true);
+gs.setProperty('glide.ui.polaris.on_off_user_pref_enabled',true);]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-21 21:19:08</sys_created_on>
+        <sys_id>45e20fc6878655509b330fec0ebb35fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0a57baca874e9510d40d7595dabb3514</sys_name>
+        <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
+        <sys_update_name>sysauto_script_45e20fc6878655509b330fec0ebb35fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-21 21:19:08</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

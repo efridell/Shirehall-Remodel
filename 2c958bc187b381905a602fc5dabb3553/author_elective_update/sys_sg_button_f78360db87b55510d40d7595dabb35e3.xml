@@ -108,6 +108,7 @@
         <sys_db_object display_value="" name="sys_sg_button">sys_sg_button</sys_db_object>
         <sys_id>4cb2a2ccb093437e8866f4fafa607844</sys_id>
         <sys_metadata>f78360db87b55510d40d7595dabb35e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New Remodel Task Function</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -116,5 +117,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_button_f78360db87b55510d40d7595dabb35e3</sys_update_name>
         <sys_update_version display_value="sys_sg_button_f78360db87b55510d40d7595dabb35e3">b783ecdb87b55510d40d7595dabb359b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 21:07:05</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -64,6 +64,7 @@
         <sys_db_object display_value="" name="sys_dictionary_override">sys_dictionary_override</sys_db_object>
         <sys_id>0891364bc7f04c108050196452227d44</sys_id>
         <sys_metadata>6ca37c238771d510d40d7595dabb35ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>short_description</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent display_value="x_snc_shirehall_0_shirehall_remodel_tasks">0664ca6d87f51514d40d7595dabb35e7</sys_parent>
@@ -72,5 +73,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_dictionary_override_6ca37c238771d510d40d7595dabb35ad</sys_update_name>
         <sys_update_version display_value="sys_dictionary_override_6ca37c238771d510d40d7595dabb35ad">daa3f8af8731d510d40d7595dabb3529</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 16:30:55</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

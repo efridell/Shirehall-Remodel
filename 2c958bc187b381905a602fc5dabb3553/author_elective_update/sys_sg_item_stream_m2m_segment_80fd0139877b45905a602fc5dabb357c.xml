@@ -48,6 +48,7 @@
         <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
         <sys_id>0d94bc149faa416096d89963f27df851</sys_id>
         <sys_metadata>80fd0139877b45905a602fc5dabb357c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -56,5 +57,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_item_stream_m2m_segment_80fd0139877b45905a602fc5dabb357c</sys_update_name>
         <sys_update_version display_value="sys_sg_item_stream_m2m_segment_80fd0139877b45905a602fc5dabb357c">8a2e0539877b45905a602fc5dabb35d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 21:49:30</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

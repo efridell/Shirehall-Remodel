@@ -58,11 +58,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-31 23:35:38</sys_created_on>
         <sys_id>ea76657987fb45905a602fc5dabb351a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New M&amp;C Item</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_button_ea76657987fb45905a602fc5dabb351a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table>x_snc_shirehall_0_materials_and_components</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>

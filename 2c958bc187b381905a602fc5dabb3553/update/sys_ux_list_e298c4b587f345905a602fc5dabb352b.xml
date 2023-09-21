@@ -65,12 +65,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e298c4b587f345905a602fc5dabb352b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Loft</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_ux_list_e298c4b587f345905a602fc5dabb352b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table>x_snc_shirehall_0_materials_and_components</table>
         <title>Loft</title>
         <view/>

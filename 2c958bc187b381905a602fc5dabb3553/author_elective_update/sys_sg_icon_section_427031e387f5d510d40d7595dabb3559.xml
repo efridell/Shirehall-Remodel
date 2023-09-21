@@ -65,6 +65,7 @@
         <sys_db_object display_value="" name="sys_sg_icon_section">sys_sg_icon_section</sys_db_object>
         <sys_id>172af547ee7b4a8e90ec95df962737c9</sys_id>
         <sys_metadata>427031e387f5d510d40d7595dabb3559</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Remodel Tasks Calendar</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -73,5 +74,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_icon_section_427031e387f5d510d40d7595dabb3559</sys_update_name>
         <sys_update_version display_value="sys_sg_icon_section_427031e387f5d510d40d7595dabb3559">467031e387f5d510d40d7595dabb355b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 21:00:40</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

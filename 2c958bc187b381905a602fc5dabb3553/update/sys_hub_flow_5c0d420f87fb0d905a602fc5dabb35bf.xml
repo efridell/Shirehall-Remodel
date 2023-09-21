@@ -29,12 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5c0d420f87fb0d905a602fc5dabb35bf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Calculate Item Price</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_hub_flow_5c0d420f87fb0d905a602fc5dabb35bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-22 03:44:45</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=5c0d420f87fb0d905a602fc5dabb35bf"/>
@@ -67,28 +70,17 @@
     </sys_flow_record_trigger>
     <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
         <active>true</active>
-        <data>{"table":"sys_trigger_runner_mapping","id":"0615f6c387ff0d905a602fc5dabb354f","name":"trigger_runner","type":"java.util.Collections$UnmodifiableMap"}</data>
+        <data>{"run_on_extended":"false","run_flow_in":"background","run_when_user_list":[],"run_when_setting":"both","run_when_user_setting":"any"}</data>
         <identifier>5c0d420f87fb0d905a602fc5dabb35bf</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:31</sys_created_on>
         <sys_id>0615f6c387ff0d905a602fc5dabb354f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:31:31</sys_updated_on>
+        <sys_updated_on>2022-09-19 16:44:03</sys_updated_on>
         <trigger display_value="">0215f6c387ff0d905a602fc5dabb3542</trigger>
     </sys_trigger_runner_mapping>
-    <sys_json_chunk action="INSERT_OR_UPDATE">
-        <data>H4sIAAAAAAAAAGXLWwqAIBBA0b3MdytwKxGD5fggGUFHLKK99yAo6Pce7ga5MtqYGgYGBaOeZpdTZQPdTc0TYy2UMYYioPrh0wuJBHbXl8T/jpc1r48mRlqE2JA5u9WxEOwH5v2lw4YAAAA=</data>
-        <document_id>0615f6c387ff0d905a602fc5dabb354f</document_id>
-        <field>trigger_runner</field>
-        <length>144</length>
-        <position>0</position>
-        <source_table>sys_trigger_runner_mapping</source_table>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-06-05 02:31:31</sys_created_on>
-        <sys_id>0615f6c387ff0d905a602fc5dabb3550</sys_id>
-    </sys_json_chunk>
     <sys_trigger_runner_mapping action="delete_multiple" query="identifier=5c0d420f87fb0d905a602fc5dabb35bf^sys_idNOT IN0615f6c387ff0d905a602fc5dabb354f"/>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=5c0d420f87fb0d905a602fc5dabb35bf^sys_idNOT INc9bdc24f87fb0d905a602fc5dabb358d"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
@@ -434,10 +426,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:28</sys_created_on>
         <sys_id>111576c387ff0d905a602fc5dabb3573</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-12 04:55:14</sys_updated_on>
+        <sys_updated_by>erik.fridell</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:37:08</sys_updated_on>
         <ui_id>d668e28b-d0b9-4bf1-929d-0403da5cf3eb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=111576c387ff0d905a602fc5dabb3573"/>
@@ -496,10 +488,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:29</sys_created_on>
         <sys_id>211576c387ff0d905a602fc5dabb357b</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-12 04:55:14</sys_updated_on>
+        <sys_updated_by>erik.fridell</sys_updated_by>
+        <sys_updated_on>2023-01-11 19:37:08</sys_updated_on>
         <ui_id>99aef8e8-11f1-4a94-a47e-e6d67a895ae0</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=211576c387ff0d905a602fc5dabb357b"/>
@@ -580,7 +572,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -603,7 +595,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -626,7 +618,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_5c0d420f87fb0d905a602fc5dabb35bf_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:39:25</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -638,7 +630,7 @@
         <binding_strategy>com.snc.process_flow.engine.binding.Every</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"9215f6c387ff0d905a602fc5dabb3551","name":"plan","plan_signature":null}}</plan>
         <plan_id>5c0d420f87fb0d905a602fc5dabb35bf</plan_id>
-        <snapshot>e46b098f87711510d40d7595dabb35f6</snapshot>
+        <snapshot>2e9dd3068758e1589b330fec0ebb3515</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-06-05 02:31:31</sys_created_on>
         <sys_domain>global</sys_domain>
@@ -1183,7 +1175,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1206,7 +1198,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1229,7 +1221,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_7d1576c387ff0d905a602fc5dabb35d1_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:31:30</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1239,6 +1231,6 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>5c0d420f87fb0d905a602fc5dabb35bf</sys_id>
         <latest_snapshot>7d1576c387ff0d905a602fc5dabb35d1</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch0-07-19-2022_07-26-2022_2149.zip</compiler_build>
+        <compiler_build>glide-tokyo-07-08-2022__patch1b-11-03-2022_11-14-2022_1555.zip</compiler_build>
     </sys_hub_flow>
 </record_update>

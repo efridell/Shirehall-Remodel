@@ -50,6 +50,7 @@
         <sys_db_object display_value="" name="sys_sg_item_stream">sys_sg_item_stream</sys_db_object>
         <sys_id>f23f85457f5e407c97f19b9c2eb2bc90</sys_id>
         <sys_metadata>bc0f970f87b34d905a602fc5dabb357b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Addition list stream</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -58,5 +59,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_item_stream_bc0f970f87b34d905a602fc5dabb357b</sys_update_name>
         <sys_update_version display_value="sys_sg_item_stream_bc0f970f87b34d905a602fc5dabb357b">f40f970f87b34d905a602fc5dabb357e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-05 21:56:16</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

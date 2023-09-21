@@ -11,11 +11,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-13 03:42:24</sys_created_on>
         <sys_id>af44ca5387319510d40d7595dabb3529</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>product_url</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_screen_field_af44ca5387319510d40d7595dabb3529</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 05:55:38</sys_updated_on>
         <type>auto</type>
         <value_only>false</value_only>
     </sys_sg_screen_field>

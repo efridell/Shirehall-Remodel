@@ -27,12 +27,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>91fd064f87fb0d905a602fc5dabb354d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Calculate Total Price</sys_name>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_91fd064f87fb0d905a602fc5dabb354d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -486,7 +489,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_4bce8e8f87fb0d905a602fc5dabb35d1_price_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:29:58</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -953,7 +956,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_91fd064f87fb0d905a602fc5dabb354d_unit_price_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:26:34</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -976,7 +979,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_91fd064f87fb0d905a602fc5dabb354d_quantity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:12</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1001,7 +1004,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_91fd064f87fb0d905a602fc5dabb354d_variable_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:29:59</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1024,7 +1027,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_91fd064f87fb0d905a602fc5dabb354d___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:41</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1047,7 +1050,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_91fd064f87fb0d905a602fc5dabb354d___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:41</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -1555,7 +1558,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_d6eec2cf87fb0d905a602fc5dabb35d9_price_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:30:17</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2022,7 +2025,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9aeec2cf87fb0d905a602fc5dabb35cb_unit_price_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:26:56</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2045,7 +2048,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9aeec2cf87fb0d905a602fc5dabb35cb_quantity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:42</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2070,7 +2073,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9aeec2cf87fb0d905a602fc5dabb35cb___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:42</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2093,7 +2096,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9aeec2cf87fb0d905a602fc5dabb35cb_variable_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-05 02:30:17</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
@@ -2116,7 +2119,7 @@
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9aeec2cf87fb0d905a602fc5dabb35cb___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-04 23:44:42</sys_updated_on>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>

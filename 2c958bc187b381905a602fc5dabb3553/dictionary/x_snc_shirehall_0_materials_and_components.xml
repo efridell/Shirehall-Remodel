@@ -40,7 +40,7 @@
         <element attributes="edge_encryption_enabled=true" label="Product URL" max_length="1024" name="product_url" type="url"/>
         <element label="Purchased" max_length="40" name="purchased" type="boolean"/>
         <element label="Quantity" max_length="38" name="quantity" type="decimal"/>
-        <element label="Remodel Task" max_length="32" name="remodel_task" reference="x_snc_shirehall_0_shirehall_remodel_tasks" type="reference"/>
+        <element label="Remodel Task" max_length="32" name="remodel_task" reference="x_snc_shirehall_0_shirehall_remodel_tasks" reference_floats="true" type="reference"/>
         <element label="Selected" max_length="40" name="selected" type="boolean"/>
         <element label="Unit Price" max_length="38" name="unit_price" type="currency"/>
         <index name="index">

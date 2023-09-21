@@ -107,6 +107,7 @@
         <sys_db_object display_value="" name="sysevent_email_action">sysevent_email_action</sys_db_object>
         <sys_id>13d5b2fc4d5e41358239d8d45f07f951</sys_id>
         <sys_metadata>10876bb787f95910d40d7595dabb3540</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Remodel Task Updated</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent display_value="Shirehall Remodel Tasks">0e64ca6d87f51514d40d7595dabb35e3</sys_parent>
@@ -115,5 +116,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sysevent_email_action_10876bb787f95910d40d7595dabb3540</sys_update_name>
         <sys_update_version display_value="sysevent_email_action_10876bb787f95910d40d7595dabb3540">61f767f787f95910d40d7595dabb3556</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-15 02:53:56</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

@@ -61,11 +61,14 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>303cc335873fc59058882f45dabb35b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_name>cmdb_ci_unix_server</sys_name>
             <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
             <sys_policy/>
             <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
             <sys_update_name>sys_ui_list_cmdb_ci_unix_server_RPTa03cc335873fc59058882f45dabb35b1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
             <sys_user/>
             <view display_value="Rpta03cc335873fc59058882f45dabb35b1" name="RPTa03cc335873fc59058882f45dabb35b1">1a840ead87f51514d40d7595dabb358f</view>
             <view_name/>

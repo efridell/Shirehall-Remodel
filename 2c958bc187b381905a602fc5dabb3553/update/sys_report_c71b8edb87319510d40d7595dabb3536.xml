@@ -106,11 +106,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-13 04:12:08</sys_created_on>
         <sys_id>c71b8edb87319510d40d7595dabb3536</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Bar on Materials and Components table by purchased created by System Administrator: 2022-09-12 21:11</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_report_c71b8edb87319510d40d7595dabb3536</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 05:55:38</sys_updated_on>
         <table>x_snc_shirehall_0_materials_and_components</table>
         <title>Bar on Materials and Components table by purchased created by System Administrator: 2022-09-12 21:11</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>

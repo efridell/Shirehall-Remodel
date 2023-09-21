@@ -17,11 +17,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-12 16:49:40</sys_created_on>
         <sys_id>ceeeeb4787715510d40d7595dabb350e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New Pachm's Bedroom Item</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_button_instance_ceeeeb4787715510d40d7595dabb350e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=ceeeeb4787715510d40d7595dabb350e"/>

@@ -54,6 +54,7 @@
         <sys_db_object display_value="" name="sys_sg_ui_rule">sys_sg_ui_rule</sys_db_object>
         <sys_id>7135d393a59c4b80b270e93e7a999000</sys_id>
         <sys_metadata>f3ba885387355510d40d7595dabb35f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>New mobile UI Rule</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_parent/>
@@ -62,5 +63,7 @@
         <sys_scope_delete display_value="">08f39244f46640359fb93a92c265fb49</sys_scope_delete>
         <sys_update_name>sys_sg_ui_rule_f3ba885387355510d40d7595dabb35f5</sys_update_name>
         <sys_update_version display_value="sys_sg_ui_rule_f3ba885387355510d40d7595dabb35f5">f03bc89387355510d40d7595dabb35c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 18:56:54</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

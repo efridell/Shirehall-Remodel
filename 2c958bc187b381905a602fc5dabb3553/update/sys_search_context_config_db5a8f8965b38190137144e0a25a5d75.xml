@@ -13,11 +13,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-29 22:56:35</sys_created_on>
         <sys_id>db5a8f8965b38190137144e0a25a5d75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Shirehall Remodel - Workspace Search</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_search_context_config_db5a8f8965b38190137144e0a25a5d75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <ts_index_group/>
         <view/>
     </sys_search_context_config>

@@ -8,13 +8,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1b5a8f8968b381901999c79375f06279</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>m2m_app_config_theme_1b5a8f8968b381901999c79375f06279</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <theme display_value="Starter Workspace Theme">d75a8f8920b38190e0c51dea3ab65879</theme>
+        <u_original_theme/>
         <ux_app_configuration display_value="Shirehall Remodel Config">975a8f8953b381902c75134af8bf6a79</ux_app_configuration>
     </m2m_app_config_theme>
 </record_update>

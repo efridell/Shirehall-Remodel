@@ -7,11 +7,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-09-12 23:42:17</sys_created_on>
         <sys_id>165d491f87b95510d40d7595dabb3528</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Remodel Tasks List Record Screen Card</sys_name>
         <sys_package display_value="Shirehall Remodel" source="x_snc_shirehall_0">2c958bc187b381905a602fc5dabb3553</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shirehall Remodel">2c958bc187b381905a602fc5dabb3553</sys_scope>
         <sys_update_name>sys_sg_view_config_165d491f87b95510d40d7595dabb3528</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-13 03:16:25</sys_updated_on>
         <table>x_snc_shirehall_0_shirehall_remodel_tasks</table>
         <template display_value="Template 01">6bb0be5c41a71010f877183fc9b8be0c</template>
     </sys_sg_view_config>
